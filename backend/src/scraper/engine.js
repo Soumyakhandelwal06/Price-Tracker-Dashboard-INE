@@ -148,27 +148,36 @@ async function scrapeProduct({ storeId, browser: sharedBrowser, headed = false }
     logger.debug('Clicking Reveal Price button');
     await revealBtn.click({ force: true });
 
-    // Step 7: Wait for price to load (asynchronous after click)
+    // Step 7: Wait for price to load and stabilize (asynchronous after click)
     logger.debug('Waiting for price to load after reveal');
     let priceLoaded = false;
     let attemptsWait = 0;
     let clickedTryAgain = false;
 
-    while (attemptsWait < 24) {
+    while (attemptsWait < 30) {
       const status = await page.evaluate(() => {
         const priceMain = document.querySelector('.price-main, [class*="price-main"], [class*="priceMain"]');
         const priceBlock = document.querySelector('.price-block');
         const blockText = priceBlock ? priceBlock.innerText : '';
         
-        if (priceMain && priceMain.textContent && priceMain.textContent.trim().length > 0 && !priceMain.textContent.includes('...')) {
-          return { ready: true };
-        }
         if (blockText.includes('TRY AGAIN') || blockText.includes('Try Again')) {
           return { tryAgain: true, text: blockText };
         }
         if ((blockText.includes('Couldn’t load') || blockText.includes("Couldn't load")) && !blockText.includes('Retrying')) {
           return { error: true, text: blockText };
         }
+
+        if (priceMain) {
+          const pvEl = priceMain.querySelector('[class*="pv-"], div[style*="font-size"], b');
+          const isUpdating = blockText.includes('Updating');
+          if (pvEl && !isUpdating) {
+            const opacity = parseFloat(window.getComputedStyle(pvEl).opacity || '1');
+            if (opacity > 0.8 && pvEl.textContent.trim().length > 0) {
+              return { ready: true };
+            }
+          }
+        }
+
         return { pending: true };
       });
 
@@ -186,7 +195,7 @@ async function scrapeProduct({ storeId, browser: sharedBrowser, headed = false }
       } else if (status.error && (!status.tryAgain || clickedTryAgain)) {
         throw createError('STORE_RATE_LIMITED', `Store rate limit hit during price reveal: ${status.text}`);
       }
-      await page.waitForTimeout(500);
+      await page.waitForTimeout(300);
       attemptsWait++;
     }
 
@@ -311,13 +320,13 @@ async function extractProductData(page, storeId) {
 
     const priceMain = document.querySelector('.price-main, [class*="price-main"], [class*="priceMain"]');
 
-    // ── Current Price: visible <b> tag or class containing 'pv-' inside price-main ──
+    // ── Current Price: visible element with class containing 'pv-' or opacity:1 ──
     let priceRaw = null;
     if (priceMain) {
       const priceEl =
-        Array.from(priceMain.querySelectorAll('b, [class*="pv-"]')).find((el) => isVisible(el)) ||
+        Array.from(priceMain.querySelectorAll('[class*="pv-"], div[style*="font-size"], b')).find((el) => isVisible(el)) ||
         Array.from(priceMain.querySelectorAll('*')).find(
-          (el) => isVisible(el) && el.textContent.includes('₹') && !el.style.textDecoration.includes('line-through')
+          (el) => isVisible(el) && (el.textContent.includes('₹') || el.textContent.includes('Rs')) && !el.style.textDecoration.includes('line-through')
         );
       if (priceEl) priceRaw = priceEl.textContent.trim();
     }
@@ -348,7 +357,7 @@ async function extractProductData(page, storeId) {
       return el && isVisible(el) ? el.textContent.trim() : null;
     };
 
-    const stockRaw = textOf('[class*="stock"]') || textOf('[class*="availability"]') || textOf('.st-q9');
+    const stockRaw = textOf('[class*="stock"]') || textOf('[class*="availability"]') || textOf('.st-k2') || textOf('[class*="st-"]');
 
     // ── Metadata ───────────────────────────────────────────────────────────
     const loadedInRaw = textOf('[class*="loaded"]') || textOf('[class*="attempts"]');
@@ -407,8 +416,12 @@ async function extractProductData(page, storeId) {
 
 function parsePrice(raw) {
   if (!raw) return null;
-  // Remove currency symbols, commas, spaces; keep digits and decimal
-  const cleaned = raw.replace(/[₹$€£,\s]/g, '').replace(/[^\d.]/g, '');
+  // Remove zero-width space characters (\u200B-\u200D\uFEFF), currency symbols, commas, spaces; keep digits and decimal
+  const cleaned = raw
+    .replace(/[\u200B-\u200D\uFEFF]/g, '')
+    .replace(/[₹$€£,\s]/g, '')
+    .replace(/Rs\.?/gi, '')
+    .replace(/[^\d.]/g, '');
   const num = parseFloat(cleaned);
   return isNaN(num) || num <= 0 ? null : num;
 }
@@ -480,32 +493,30 @@ function sleep(ms) {
 }
 
 /**
- * Fallback scraper when Playwright browser binaries are missing on cloud serverless hosts.
+ * Fallback scraper: attempts to fetch catalog API from store directly. Never returns fake prices.
  */
 async function httpFallbackScrape(storeId) {
   const startTime = Date.now();
   logger.info(`Executing HTTP API fallback scrape for storeId=${storeId}`);
 
   try {
-    const url = `${STORE_BASE_URL}/api/product/${storeId}`;
+    const url = `${STORE_BASE_URL}/api/catalog?page=1&pageSize=100`;
     const res = await fetch(url, { signal: AbortSignal.timeout(6000) });
     if (res.ok) {
-      const prod = await res.json();
-      if (prod && (prod.name || prod.id)) {
-        const numId = typeof storeId === 'number' ? storeId : (parseInt(String(storeId).replace(/\D/g, '')) || 100);
-        const basePrice = Math.round(1500 + ((numId * 9301 + 49297) % 75000));
-        const mrp = Math.round(basePrice * 1.25);
-        const discountPct = Math.round(((mrp - basePrice) / mrp) * 100);
-
+      const catalogData = await res.json();
+      const items = catalogData.items || [];
+      const numId = typeof storeId === 'number' ? storeId : parseInt(String(storeId).replace(/\D/g, ''));
+      const found = items.find((i) => i.id === numId);
+      if (found && found.price) {
         return {
           storeId,
-          price: basePrice,
-          mrp,
-          discountPct,
-          stockText: 'In Stock - 10 left',
+          price: parseFloat(found.price),
+          mrp: found.mrp ? parseFloat(found.mrp) : null,
+          discountPct: found.discountPct || null,
+          stockText: found.stockText || 'In Stock',
           inStock: true,
-          stockCount: 10,
-          name: prod.name || 'Product',
+          stockCount: found.stockCount || null,
+          name: found.name,
           durationMs: Date.now() - startTime,
         };
       }
@@ -514,21 +525,8 @@ async function httpFallbackScrape(storeId) {
     logger.warn(`HTTP fallback fetch warning for ${storeId}: ${err.message}`);
   }
 
-  const numId = parseInt(String(storeId).replace(/\D/g, '')) || 100;
-  const basePrice = Math.round(2000 + ((numId * 9301 + 49297) % 65000));
-  const mrp = Math.round(basePrice * 1.3);
-  const discountPct = Math.round(((mrp - basePrice) / mrp) * 100);
-
-  return {
-    storeId,
-    price: basePrice,
-    mrp,
-    discountPct,
-    stockText: 'In Stock',
-    inStock: true,
-    stockCount: 8,
-    durationMs: Date.now() - startTime,
-  };
+  throw createError('SCRAPE_FAILED', `Could not scrape product ${storeId} via Playwright or HTTP fallback.`);
 }
 
 module.exports = { scrapeProduct, scrapeWithRetry };
+

@@ -1,5 +1,7 @@
 # Design Note — INE Product Price Tracker
 
+🔗 **Live Application URL**: [https://price-tracker-dashboard-ine.vercel.app/](https://price-tracker-dashboard-ine.vercel.app/)
+
 ## How I Made the Scraping Reliable
 
 ### Reverse-Engineering the Anti-Scraping System
@@ -60,3 +62,6 @@ I chose **Playwright with headless Chromium** as the scraping engine. Key decisi
 **Sixth issue — store 429 rate limits & hanging timeouts**: Rapid requests triggered store HTTP 429 rate limits, causing Playwright `waitForSelector` to hang for 30s per attempt (total ~96s across retries). Fixed by implementing immediate `.grid-error` / `429` detection within 2-3 seconds, exponential backoff, auto-clicking the store's `TRY AGAIN` button, and returning clean HTTP 422 JSON errors so client requests never exceed 30s.
 
 **Seventh issue — multi-word search string matching**: Searching `"summit dive"` previously checked exact substring `"summit dive"`. Fixed by tokenizing search queries into individual words and ensuring all tokens match across `name`, `category`, `sku`, and `description`.
+
+**Eighth issue — synthetic math fallback & zero-width space parsing**: An early fallback function (`httpFallbackScrape`) used a math formula `1500 + ((numId * 9301 + 49297) % 75000)` that generated hardcoded synthetic prices (e.g., `₹24,828`) whenever Playwright timed out. Furthermore, zero-width space characters (`\u200B`) inside price spans broke numeric parsing. Fixed by removing all synthetic math fallbacks (throwing authentic errors instead), waiting explicitly for price element `opacity > 0.8` after the `Updating…` transition, and stripping zero-width spaces (`\u200B-\u200D\uFEFF`) and `Rs.` prefixes during numeric price parsing.
+
