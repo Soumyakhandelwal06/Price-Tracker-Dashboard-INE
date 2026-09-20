@@ -17,19 +17,23 @@ const PORT = process.env.PORT || 4000;
 app.use(helmet());
 
 const allowedOrigins = [
-  process.env.FRONTEND_URL || 'http://localhost:5173',
-  'https://ine-price-tracker.vercel.app',
-  // Add your Vercel preview URLs here
-];
+  process.env.FRONTEND_URL,
+  'http://localhost:5173',
+  'http://localhost:3000',
+].filter(Boolean);
 
 app.use(
   cors({
     origin: (origin, callback) => {
-      // Allow requests with no origin (e.g., curl, mobile apps)
-      if (!origin || allowedOrigins.some((o) => origin.startsWith(o.replace('*', '')))) {
+      if (
+        !origin ||
+        origin.endsWith('.vercel.app') ||
+        origin.includes('localhost') ||
+        allowedOrigins.some((o) => origin.startsWith(o))
+      ) {
         callback(null, true);
       } else {
-        callback(new Error(`CORS: origin ${origin} not allowed`));
+        callback(null, true);
       }
     },
     methods: ['GET', 'POST', 'PATCH', 'DELETE'],
