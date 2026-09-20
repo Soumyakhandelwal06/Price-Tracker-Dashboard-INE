@@ -8,6 +8,7 @@ import PriceChart from '../components/PriceChart';
 import ScrapeLog from '../components/ScrapeLog';
 import AlertForm from '../components/AlertForm';
 import { getProduct, getPriceHistory, getScrapeLogs, triggerScrapeOne } from '../api';
+import { useNotifications } from '../context/NotificationContext';
 import toast from 'react-hot-toast';
 
 function formatPrice(price) {
