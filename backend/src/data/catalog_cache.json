@@ -1,0 +1,4580 @@
+[
+  {
+    "storeId": 115,
+    "name": "Larkspur Trackpad Mini",
+    "category": "Peripherals",
+    "sku": "LAR-10115",
+    "description": "The Larkspur Trackpad Mini. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 38,
+    "name": "Amperage Numpad Pro",
+    "category": "Peripherals",
+    "sku": "AMP-10038",
+    "description": "The Amperage Numpad Pro. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 265,
+    "name": "Copperpot Monitor Max",
+    "category": "Monitors",
+    "sku": "COP-10265",
+    "description": "The Copperpot Monitor Max. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 185,
+    "name": "Larkspur Monitor Air",
+    "category": "Monitors",
+    "sku": "LAR-10185",
+    "description": "The Larkspur Monitor Air. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 877,
+    "name": "Vista Sneaker XL",
+    "category": "Footwear",
+    "sku": "VIS-10877",
+    "description": "The Vista Sneaker XL. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 437,
+    "name": "Larkspur Stream Controller Plus",
+    "category": "Peripherals",
+    "sku": "LAR-10437",
+    "description": "The Larkspur Stream Controller Plus. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 882,
+    "name": "Summit Earbuds Studio",
+    "category": "Audio",
+    "sku": "SUM-10882",
+    "description": "The Summit Earbuds Studio. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 159,
+    "name": "Ironwood Sandal Mini",
+    "category": "Footwear",
+    "sku": "IRO-10159",
+    "description": "The Ironwood Sandal Mini. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 168,
+    "name": "Summit Receiver Air",
+    "category": "Audio",
+    "sku": "SUM-10168",
+    "description": "The Summit Receiver Air. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 371,
+    "name": "Cobalt Video Doorbell Lite",
+    "category": "Smart Home",
+    "sku": "COB-10371",
+    "description": "The Cobalt Video Doorbell Lite. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 125,
+    "name": "Copperpot Solar Charger Mini",
+    "category": "Power",
+    "sku": "COP-10125",
+    "description": "The Copperpot Solar Charger Mini. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 52,
+    "name": "Amperage Indoor Camera Pro",
+    "category": "Smart Home",
+    "sku": "AMP-10052",
+    "description": "The Amperage Indoor Camera Pro. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 597,
+    "name": "Vista Stream Controller Three",
+    "category": "Peripherals",
+    "sku": "VIS-10597",
+    "description": "The Vista Stream Controller Three. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 812,
+    "name": "Summit Cloudbook XL",
+    "category": "Laptops",
+    "sku": "SUM-10812",
+    "description": "The Summit Cloudbook XL. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 996,
+    "name": "Vantablack Webcam Neo",
+    "category": "Peripherals",
+    "sku": "VAN-10996",
+    "description": "The Vantablack Webcam Neo. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 966,
+    "name": "Summit Turntable Neo",
+    "category": "Audio",
+    "sku": "SUM-10966",
+    "description": "The Summit Turntable Neo. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 347,
+    "name": "Domus Portable Monitor Lite",
+    "category": "Monitors",
+    "sku": "DOM-10347",
+    "description": "The Domus Portable Monitor Lite. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 86,
+    "name": "Vantablack Turntable Mini",
+    "category": "Audio",
+    "sku": "VAN-10086",
+    "description": "The Vantablack Turntable Mini. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 365,
+    "name": "Nordkraft Solar Charger Lite",
+    "category": "Power",
+    "sku": "NOR-10365",
+    "description": "The Nordkraft Solar Charger Lite. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 605,
+    "name": "Larkspur Solar Charger Three",
+    "category": "Power",
+    "sku": "LAR-10605",
+    "description": "The Larkspur Solar Charger Three. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 631,
+    "name": "Nordkraft Toaster Three",
+    "category": "Kitchen",
+    "sku": "NOR-10631",
+    "description": "The Nordkraft Toaster Three. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 63,
+    "name": "Cobalt Tote Pro",
+    "category": "Bags",
+    "sku": "COB-10063",
+    "description": "The Cobalt Tote Pro. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 871,
+    "name": "Larkspur Toaster XL",
+    "category": "Kitchen",
+    "sku": "LAR-10871",
+    "description": "The Larkspur Toaster XL. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 922,
+    "name": "Basecamp Power Bank Studio",
+    "category": "Power",
+    "sku": "BAS-10922",
+    "description": "The Basecamp Power Bank Studio. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 948,
+    "name": "Amperage Water Bottle Studio",
+    "category": "Kitchen",
+    "sku": "AMP-10948",
+    "description": "The Amperage Water Bottle Studio. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 964,
+    "name": "Basecamp Soundbar Neo",
+    "category": "Audio",
+    "sku": "BAS-10964",
+    "description": "The Basecamp Soundbar Neo. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 841,
+    "name": "Nordkraft Charger XL",
+    "category": "Power",
+    "sku": "NOR-10841",
+    "description": "The Nordkraft Charger XL. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 953,
+    "name": "Nordkraft Trail Runners Studio",
+    "category": "Footwear",
+    "sku": "NOR-10953",
+    "description": "The Nordkraft Trail Runners Studio. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 372,
+    "name": "Auralite Indoor Camera Lite",
+    "category": "Smart Home",
+    "sku": "AUR-10372",
+    "description": "The Auralite Indoor Camera Lite. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 611,
+    "name": "Vista Video Doorbell Three",
+    "category": "Smart Home",
+    "sku": "VIS-10611",
+    "description": "The Vista Video Doorbell Three. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 762,
+    "name": "Meridian Power Bank X",
+    "category": "Power",
+    "sku": "MER-10762",
+    "description": "The Meridian Power Bank X. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 932,
+    "name": "Auralite Indoor Camera Studio",
+    "category": "Smart Home",
+    "sku": "AUR-10932",
+    "description": "The Auralite Indoor Camera Studio. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 459,
+    "name": "Domus Sling Plus",
+    "category": "Bags",
+    "sku": "DOM-10459",
+    "description": "The Domus Sling Plus. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 587,
+    "name": "Copperpot Portable Monitor Three",
+    "category": "Monitors",
+    "sku": "COP-10587",
+    "description": "The Copperpot Portable Monitor Three. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 883,
+    "name": "Nordkraft Speaker Studio",
+    "category": "Audio",
+    "sku": "NOR-10883",
+    "description": "The Nordkraft Speaker Studio. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 931,
+    "name": "Cobalt Video Doorbell Studio",
+    "category": "Smart Home",
+    "sku": "COB-10931",
+    "description": "The Cobalt Video Doorbell Studio. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 40,
+    "name": "Basecamp Docking Station Pro",
+    "category": "Peripherals",
+    "sku": "BAS-10040",
+    "description": "The Basecamp Docking Station Pro. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 57,
+    "name": "Nordkraft Backpack Pro",
+    "category": "Bags",
+    "sku": "NOR-10057",
+    "description": "The Nordkraft Backpack Pro. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 224,
+    "name": "Summit Pouch Air",
+    "category": "Bags",
+    "sku": "SUM-10224",
+    "description": "The Summit Pouch Air. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 995,
+    "name": "Nordkraft Trackpad Neo",
+    "category": "Peripherals",
+    "sku": "NOR-10995",
+    "description": "The Nordkraft Trackpad Neo. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 15,
+    "name": "Nordkraft Slimbook Pro",
+    "category": "Laptops",
+    "sku": "NOR-10015",
+    "description": "The Nordkraft Slimbook Pro. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 263,
+    "name": "Domus Field Watch Max",
+    "category": "Wearables",
+    "sku": "DOM-10263",
+    "description": "The Domus Field Watch Max. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 196,
+    "name": "Summit Webcam Air",
+    "category": "Peripherals",
+    "sku": "SUM-10196",
+    "description": "The Summit Webcam Air. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 116,
+    "name": "Helix Webcam Mini",
+    "category": "Peripherals",
+    "sku": "HEL-10116",
+    "description": "The Helix Webcam Mini. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 917,
+    "name": "Cobalt Stream Controller Studio",
+    "category": "Peripherals",
+    "sku": "COB-10917",
+    "description": "The Cobalt Stream Controller Studio. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 818,
+    "name": "Meridian Fitness Band XL",
+    "category": "Wearables",
+    "sku": "MER-10818",
+    "description": "The Meridian Fitness Band XL. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 824,
+    "name": "Basecamp Dive Watch XL",
+    "category": "Wearables",
+    "sku": "BAS-10824",
+    "description": "The Basecamp Dive Watch XL. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 500,
+    "name": "Amperage AR Glasses Two",
+    "category": "Wearables",
+    "sku": "AMP-10500",
+    "description": "The Amperage AR Glasses Two. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 559,
+    "name": "Copperpot Sandal Two",
+    "category": "Footwear",
+    "sku": "COP-10559",
+    "description": "The Copperpot Sandal Two. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 788,
+    "name": "Helix Water Bottle X",
+    "category": "Kitchen",
+    "sku": "HEL-10788",
+    "description": "The Helix Water Bottle X. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 177,
+    "name": "Vista Smartwatch Air",
+    "category": "Wearables",
+    "sku": "VIS-10177",
+    "description": "The Vista Smartwatch Air. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 779,
+    "name": "Vista Sling X",
+    "category": "Bags",
+    "sku": "VIS-10779",
+    "description": "The Vista Sling X. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 797,
+    "name": "Copperpot Sneaker X",
+    "category": "Footwear",
+    "sku": "COP-10797",
+    "description": "The Copperpot Sneaker X. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 914,
+    "name": "Helix Mouse Studio",
+    "category": "Peripherals",
+    "sku": "HEL-10914",
+    "description": "The Helix Mouse Studio. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 41,
+    "name": "Copperpot Charger Pro",
+    "category": "Power",
+    "sku": "COP-10041",
+    "description": "The Copperpot Charger Pro. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 93,
+    "name": "Vista Convertible Mini",
+    "category": "Laptops",
+    "sku": "VIS-10093",
+    "description": "The Vista Convertible Mini. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 225,
+    "name": "Nordkraft Kettle Air",
+    "category": "Kitchen",
+    "sku": "NOR-10225",
+    "description": "The Nordkraft Kettle Air. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 806,
+    "name": "Auralite Turntable XL",
+    "category": "Audio",
+    "sku": "AUR-10806",
+    "description": "The Auralite Turntable XL. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 322,
+    "name": "Summit Earbuds Lite",
+    "category": "Audio",
+    "sku": "SUM-10322",
+    "description": "The Summit Earbuds Lite. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 484,
+    "name": "Auralite Soundbar Two",
+    "category": "Audio",
+    "sku": "AUR-10484",
+    "description": "The Auralite Soundbar Two. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 463,
+    "name": "Nordkraft Tote Plus",
+    "category": "Bags",
+    "sku": "NOR-10463",
+    "description": "The Nordkraft Tote Plus. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 888,
+    "name": "Meridian Receiver Studio",
+    "category": "Audio",
+    "sku": "MER-10888",
+    "description": "The Meridian Receiver Studio. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 849,
+    "name": "Vista Thermostat XL",
+    "category": "Smart Home",
+    "sku": "VIS-10849",
+    "description": "The Vista Thermostat XL. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 474,
+    "name": "Basecamp Approach Shoe Plus",
+    "category": "Footwear",
+    "sku": "BAS-10474",
+    "description": "The Basecamp Approach Shoe Plus. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 413,
+    "name": "Cobalt Convertible Plus",
+    "category": "Laptops",
+    "sku": "COB-10413",
+    "description": "The Cobalt Convertible Plus. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 561,
+    "name": "Nordkraft Headphones Three",
+    "category": "Audio",
+    "sku": "NOR-10561",
+    "description": "The Nordkraft Headphones Three. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 885,
+    "name": "Larkspur Microphone Studio",
+    "category": "Audio",
+    "sku": "LAR-10885",
+    "description": "The Larkspur Microphone Studio. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 16,
+    "name": "Vantablack Gamebook Pro",
+    "category": "Laptops",
+    "sku": "VAN-10016",
+    "description": "The Vantablack Gamebook Pro. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 981,
+    "name": "Nordkraft Running Watch Neo",
+    "category": "Wearables",
+    "sku": "NOR-10981",
+    "description": "The Nordkraft Running Watch Neo. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 578,
+    "name": "Helix Fitness Band Three",
+    "category": "Wearables",
+    "sku": "HEL-10578",
+    "description": "The Helix Fitness Band Three. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 450,
+    "name": "Vantablack Smart Bulb Plus",
+    "category": "Smart Home",
+    "sku": "VAN-10450",
+    "description": "The Vantablack Smart Bulb Plus. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 553,
+    "name": "Cobalt Trail Runners Two",
+    "category": "Footwear",
+    "sku": "COB-10553",
+    "description": "The Cobalt Trail Runners Two. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 661,
+    "name": "Larkspur Running Watch S",
+    "category": "Wearables",
+    "sku": "LAR-10661",
+    "description": "The Larkspur Running Watch S. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 238,
+    "name": "Summit Hiking Boot Air",
+    "category": "Footwear",
+    "sku": "SUM-10238",
+    "description": "The Summit Hiking Boot Air. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 902,
+    "name": "Meridian Sleep Tracker Studio",
+    "category": "Wearables",
+    "sku": "MER-10902",
+    "description": "The Meridian Sleep Tracker Studio. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 429,
+    "name": "Vista Pro Display Plus",
+    "category": "Monitors",
+    "sku": "VIS-10429",
+    "description": "The Vista Pro Display Plus. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 986,
+    "name": "Meridian Ultrawide Neo",
+    "category": "Monitors",
+    "sku": "MER-10986",
+    "description": "The Meridian Ultrawide Neo. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 396,
+    "name": "Helix Waterproof Boot Lite",
+    "category": "Footwear",
+    "sku": "HEL-10396",
+    "description": "The Helix Waterproof Boot Lite. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 670,
+    "name": "Basecamp Touch Monitor S",
+    "category": "Monitors",
+    "sku": "BAS-10670",
+    "description": "The Basecamp Touch Monitor S. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 335,
+    "name": "Copperpot Slimbook Lite",
+    "category": "Laptops",
+    "sku": "COP-10335",
+    "description": "The Copperpot Slimbook Lite. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 82,
+    "name": "Basecamp Earbuds Mini",
+    "category": "Audio",
+    "sku": "BAS-10082",
+    "description": "The Basecamp Earbuds Mini. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 700,
+    "name": "Summit Hardshell Case S",
+    "category": "Bags",
+    "sku": "SUM-10700",
+    "description": "The Summit Hardshell Case S. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 947,
+    "name": "Vista Skillet Studio",
+    "category": "Kitchen",
+    "sku": "VIS-10947",
+    "description": "The Vista Skillet Studio. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 271,
+    "name": "Ironwood Curved Monitor Max",
+    "category": "Monitors",
+    "sku": "IRO-10271",
+    "description": "The Ironwood Curved Monitor Max. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 170,
+    "name": "Vantablack Notebook Air",
+    "category": "Laptops",
+    "sku": "VAN-10170",
+    "description": "The Vantablack Notebook Air. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 949,
+    "name": "Domus Sous-Vide Wand Studio",
+    "category": "Kitchen",
+    "sku": "DOM-10949",
+    "description": "The Domus Sous-Vide Wand Studio. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 573,
+    "name": "Copperpot Convertible Three",
+    "category": "Laptops",
+    "sku": "COP-10573",
+    "description": "The Copperpot Convertible Three. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 735,
+    "name": "Cobalt Slimbook X",
+    "category": "Laptops",
+    "sku": "COB-10735",
+    "description": "The Cobalt Slimbook X. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 907,
+    "name": "Domus Portable Monitor Studio",
+    "category": "Monitors",
+    "sku": "DOM-10907",
+    "description": "The Domus Portable Monitor Studio. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 285,
+    "name": "Ironwood Solar Charger Max",
+    "category": "Power",
+    "sku": "IRO-10285",
+    "description": "The Ironwood Solar Charger Max. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 399,
+    "name": "Cobalt Sandal Lite",
+    "category": "Footwear",
+    "sku": "COB-10399",
+    "description": "The Cobalt Sandal Lite. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 162,
+    "name": "Auralite Earbuds Air",
+    "category": "Audio",
+    "sku": "AUR-10162",
+    "description": "The Auralite Earbuds Air. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 294,
+    "name": "Summit Motion Sensor Max",
+    "category": "Smart Home",
+    "sku": "SUM-10294",
+    "description": "The Summit Motion Sensor Max. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 946,
+    "name": "Auralite Grinder Studio",
+    "category": "Kitchen",
+    "sku": "AUR-10946",
+    "description": "The Auralite Grinder Studio. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 143,
+    "name": "Larkspur Tote Mini",
+    "category": "Bags",
+    "sku": "LAR-10143",
+    "description": "The Larkspur Tote Mini. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 860,
+    "name": "Meridian Hardshell Case XL",
+    "category": "Bags",
+    "sku": "MER-10860",
+    "description": "The Meridian Hardshell Case XL. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 123,
+    "name": "Domus Charging Pad Mini",
+    "category": "Power",
+    "sku": "DOM-10123",
+    "description": "The Domus Charging Pad Mini. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 389,
+    "name": "Domus Sous-Vide Wand Lite",
+    "category": "Kitchen",
+    "sku": "DOM-10389",
+    "description": "The Domus Sous-Vide Wand Lite. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 219,
+    "name": "Vista Sling Air",
+    "category": "Bags",
+    "sku": "VIS-10219",
+    "description": "The Vista Sling Air. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 422,
+    "name": "Vantablack Sleep Tracker Plus",
+    "category": "Wearables",
+    "sku": "VAN-10422",
+    "description": "The Vantablack Sleep Tracker Plus. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 289,
+    "name": "Vista Thermostat Max",
+    "category": "Smart Home",
+    "sku": "VIS-10289",
+    "description": "The Vista Thermostat Max. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 89,
+    "name": "Ironwood Ultrabook Mini",
+    "category": "Laptops",
+    "sku": "IRO-10089",
+    "description": "The Ironwood Ultrabook Mini. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 305,
+    "name": "Domus Kettle Max",
+    "category": "Kitchen",
+    "sku": "DOM-10305",
+    "description": "The Domus Kettle Max. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 133,
+    "name": "Cobalt Smart Plug Mini",
+    "category": "Smart Home",
+    "sku": "COB-10133",
+    "description": "The Cobalt Smart Plug Mini. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 654,
+    "name": "Amperage Creatorbook S",
+    "category": "Laptops",
+    "sku": "AMP-10654",
+    "description": "The Amperage Creatorbook S. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 945,
+    "name": "Cobalt Kettle Studio",
+    "category": "Kitchen",
+    "sku": "COB-10945",
+    "description": "The Cobalt Kettle Studio. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 182,
+    "name": "Summit Sleep Tracker Air",
+    "category": "Wearables",
+    "sku": "SUM-10182",
+    "description": "The Summit Sleep Tracker Air. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 583,
+    "name": "Vista Field Watch Three",
+    "category": "Wearables",
+    "sku": "VIS-10583",
+    "description": "The Vista Field Watch Three. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 460,
+    "name": "Basecamp Hardshell Case Plus",
+    "category": "Bags",
+    "sku": "BAS-10460",
+    "description": "The Basecamp Hardshell Case Plus. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 274,
+    "name": "Auralite Mouse Max",
+    "category": "Peripherals",
+    "sku": "AUR-10274",
+    "description": "The Auralite Mouse Max. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 987,
+    "name": "Cobalt Portable Monitor Neo",
+    "category": "Monitors",
+    "sku": "COB-10987",
+    "description": "The Cobalt Portable Monitor Neo. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 178,
+    "name": "Amperage Fitness Band Air",
+    "category": "Wearables",
+    "sku": "AMP-10178",
+    "description": "The Amperage Fitness Band Air. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 609,
+    "name": "Cobalt Thermostat Three",
+    "category": "Smart Home",
+    "sku": "COB-10609",
+    "description": "The Cobalt Thermostat Three. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 820,
+    "name": "Auralite AR Glasses XL",
+    "category": "Wearables",
+    "sku": "AUR-10820",
+    "description": "The Auralite AR Glasses XL. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 894,
+    "name": "Basecamp Creatorbook Studio",
+    "category": "Laptops",
+    "sku": "BAS-10894",
+    "description": "The Basecamp Creatorbook Studio. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 709,
+    "name": "Vista Sous-Vide Wand S",
+    "category": "Kitchen",
+    "sku": "VIS-10709",
+    "description": "The Vista Sous-Vide Wand S. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 848,
+    "name": "Auralite Travel Adapter XL",
+    "category": "Power",
+    "sku": "AUR-10848",
+    "description": "The Auralite Travel Adapter XL. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 398,
+    "name": "Meridian Hiking Boot Lite",
+    "category": "Footwear",
+    "sku": "MER-10398",
+    "description": "The Meridian Hiking Boot Lite. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 763,
+    "name": "Cobalt Charging Pad X",
+    "category": "Power",
+    "sku": "COB-10763",
+    "description": "The Cobalt Charging Pad X. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 254,
+    "name": "Vantablack Creatorbook Max",
+    "category": "Laptops",
+    "sku": "VAN-10254",
+    "description": "The Vantablack Creatorbook Max. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 620,
+    "name": "Helix Hardshell Case Three",
+    "category": "Bags",
+    "sku": "HEL-10620",
+    "description": "The Helix Hardshell Case Three. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 501,
+    "name": "Domus Running Watch Two",
+    "category": "Wearables",
+    "sku": "DOM-10501",
+    "description": "The Domus Running Watch Two. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 747,
+    "name": "Ironwood Portable Monitor X",
+    "category": "Monitors",
+    "sku": "IRO-10747",
+    "description": "The Ironwood Portable Monitor X. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 232,
+    "name": "Auralite Air Fryer Air",
+    "category": "Kitchen",
+    "sku": "AUR-10232",
+    "description": "The Auralite Air Fryer Air. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 683,
+    "name": "Domus Charging Pad S",
+    "category": "Power",
+    "sku": "DOM-10683",
+    "description": "The Domus Charging Pad S. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 991,
+    "name": "Domus Curved Monitor Neo",
+    "category": "Monitors",
+    "sku": "DOM-10991",
+    "description": "The Domus Curved Monitor Neo. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 61,
+    "name": "Ironwood Sleeve Pro",
+    "category": "Bags",
+    "sku": "IRO-10061",
+    "description": "The Ironwood Sleeve Pro. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 202,
+    "name": "Meridian Power Bank Air",
+    "category": "Power",
+    "sku": "MER-10202",
+    "description": "The Meridian Power Bank Air. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 432,
+    "name": "Basecamp Field Monitor Plus",
+    "category": "Monitors",
+    "sku": "BAS-10432",
+    "description": "The Basecamp Field Monitor Plus. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 750,
+    "name": "Auralite Touch Monitor X",
+    "category": "Monitors",
+    "sku": "AUR-10750",
+    "description": "The Auralite Touch Monitor X. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 792,
+    "name": "Auralite Air Fryer X",
+    "category": "Kitchen",
+    "sku": "AUR-10792",
+    "description": "The Auralite Air Fryer X. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 433,
+    "name": "Copperpot Keyboard Plus",
+    "category": "Peripherals",
+    "sku": "COP-10433",
+    "description": "The Copperpot Keyboard Plus. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 495,
+    "name": "Ironwood Slimbook Two",
+    "category": "Laptops",
+    "sku": "IRO-10495",
+    "description": "The Ironwood Slimbook Two. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 70,
+    "name": "Summit Blender Pro",
+    "category": "Kitchen",
+    "sku": "SUM-10070",
+    "description": "The Summit Blender Pro. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 333,
+    "name": "Domus Convertible Lite",
+    "category": "Laptops",
+    "sku": "DOM-10333",
+    "description": "The Domus Convertible Lite. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 847,
+    "name": "Cobalt Cable Kit XL",
+    "category": "Power",
+    "sku": "COB-10847",
+    "description": "The Cobalt Cable Kit XL. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 85,
+    "name": "Nordkraft Microphone Mini",
+    "category": "Audio",
+    "sku": "NOR-10085",
+    "description": "The Nordkraft Microphone Mini. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 936,
+    "name": "Basecamp Bridge Hub Studio",
+    "category": "Smart Home",
+    "sku": "BAS-10936",
+    "description": "The Basecamp Bridge Hub Studio. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 674,
+    "name": "Vantablack Mouse S",
+    "category": "Peripherals",
+    "sku": "VAN-10674",
+    "description": "The Vantablack Mouse S. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 842,
+    "name": "Vantablack Power Bank XL",
+    "category": "Power",
+    "sku": "VAN-10842",
+    "description": "The Vantablack Power Bank XL. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 791,
+    "name": "Cobalt Toaster X",
+    "category": "Kitchen",
+    "sku": "COB-10791",
+    "description": "The Cobalt Toaster X. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 711,
+    "name": "Domus Toaster S",
+    "category": "Kitchen",
+    "sku": "DOM-10711",
+    "description": "The Domus Toaster S. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 511,
+    "name": "Cobalt Curved Monitor Two",
+    "category": "Monitors",
+    "sku": "COB-10511",
+    "description": "The Cobalt Curved Monitor Two. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 266,
+    "name": "Summit Ultrawide Max",
+    "category": "Monitors",
+    "sku": "SUM-10266",
+    "description": "The Summit Ultrawide Max. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 803,
+    "name": "Ironwood Speaker XL",
+    "category": "Audio",
+    "sku": "IRO-10803",
+    "description": "The Ironwood Speaker XL. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 703,
+    "name": "Larkspur Tote S",
+    "category": "Bags",
+    "sku": "LAR-10703",
+    "description": "The Larkspur Tote S. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 31,
+    "name": "Larkspur Curved Monitor Pro",
+    "category": "Monitors",
+    "sku": "LAR-10031",
+    "description": "The Larkspur Curved Monitor Pro. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 64,
+    "name": "Auralite Pouch Pro",
+    "category": "Bags",
+    "sku": "AUR-10064",
+    "description": "The Auralite Pouch Pro. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 118,
+    "name": "Meridian Numpad Mini",
+    "category": "Peripherals",
+    "sku": "MER-10118",
+    "description": "The Meridian Numpad Mini. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 201,
+    "name": "Ironwood Charger Air",
+    "category": "Power",
+    "sku": "IRO-10201",
+    "description": "The Ironwood Charger Air. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 567,
+    "name": "Cobalt Amplifier Three",
+    "category": "Audio",
+    "sku": "COB-10567",
+    "description": "The Cobalt Amplifier Three. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 687,
+    "name": "Nordkraft Cable Kit S",
+    "category": "Power",
+    "sku": "NOR-10687",
+    "description": "The Nordkraft Cable Kit S. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 697,
+    "name": "Domus Backpack S",
+    "category": "Bags",
+    "sku": "DOM-10697",
+    "description": "The Domus Backpack S. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 236,
+    "name": "Basecamp Waterproof Boot Air",
+    "category": "Footwear",
+    "sku": "BAS-10236",
+    "description": "The Basecamp Waterproof Boot Air. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 575,
+    "name": "Nordkraft Slimbook Three",
+    "category": "Laptops",
+    "sku": "NOR-10575",
+    "description": "The Nordkraft Slimbook Three. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 689,
+    "name": "Larkspur Thermostat S",
+    "category": "Smart Home",
+    "sku": "LAR-10689",
+    "description": "The Larkspur Thermostat S. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 920,
+    "name": "Amperage Docking Station Studio",
+    "category": "Peripherals",
+    "sku": "AMP-10920",
+    "description": "The Amperage Docking Station Studio. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 241,
+    "name": "Larkspur Headphones Max",
+    "category": "Audio",
+    "sku": "LAR-10241",
+    "description": "The Larkspur Headphones Max. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 752,
+    "name": "Amperage Field Monitor X",
+    "category": "Monitors",
+    "sku": "AMP-10752",
+    "description": "The Amperage Field Monitor X. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 210,
+    "name": "Summit Smart Bulb Air",
+    "category": "Smart Home",
+    "sku": "SUM-10210",
+    "description": "The Summit Smart Bulb Air. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 287,
+    "name": "Cobalt Cable Kit Max",
+    "category": "Power",
+    "sku": "COB-10287",
+    "description": "The Cobalt Cable Kit Max. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 163,
+    "name": "Vista Speaker Air",
+    "category": "Audio",
+    "sku": "VIS-10163",
+    "description": "The Vista Speaker Air. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 783,
+    "name": "Copperpot Tote X",
+    "category": "Bags",
+    "sku": "COP-10783",
+    "description": "The Copperpot Tote X. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 453,
+    "name": "Ironwood Smart Plug Plus",
+    "category": "Smart Home",
+    "sku": "IRO-10453",
+    "description": "The Ironwood Smart Plug Plus. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 645,
+    "name": "Nordkraft Microphone S",
+    "category": "Audio",
+    "sku": "NOR-10645",
+    "description": "The Nordkraft Microphone S. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 101,
+    "name": "Larkspur Running Watch Mini",
+    "category": "Wearables",
+    "sku": "LAR-10101",
+    "description": "The Larkspur Running Watch Mini. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 259,
+    "name": "Cobalt Smart Ring Max",
+    "category": "Wearables",
+    "sku": "COB-10259",
+    "description": "The Cobalt Smart Ring Max. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 731,
+    "name": "Larkspur Workstation X",
+    "category": "Laptops",
+    "sku": "LAR-10731",
+    "description": "The Larkspur Workstation X. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 798,
+    "name": "Summit Hiking Boot X",
+    "category": "Footwear",
+    "sku": "SUM-10798",
+    "description": "The Summit Hiking Boot X. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 434,
+    "name": "Summit Mouse Plus",
+    "category": "Peripherals",
+    "sku": "SUM-10434",
+    "description": "The Summit Mouse Plus. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 77,
+    "name": "Cobalt Sneaker Pro",
+    "category": "Footwear",
+    "sku": "COB-10077",
+    "description": "The Cobalt Sneaker Pro. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 47,
+    "name": "Ironwood Cable Kit Pro",
+    "category": "Power",
+    "sku": "IRO-10047",
+    "description": "The Ironwood Cable Kit Pro. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 301,
+    "name": "Cobalt Sleeve Max",
+    "category": "Bags",
+    "sku": "COB-10301",
+    "description": "The Cobalt Sleeve Max. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 318,
+    "name": "Amperage Hiking Boot Max",
+    "category": "Footwear",
+    "sku": "AMP-10318",
+    "description": "The Amperage Hiking Boot Max. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 69,
+    "name": "Copperpot Sous-Vide Wand Pro",
+    "category": "Kitchen",
+    "sku": "COP-10069",
+    "description": "The Copperpot Sous-Vide Wand Pro. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 136,
+    "name": "Amperage Bridge Hub Mini",
+    "category": "Smart Home",
+    "sku": "AMP-10136",
+    "description": "The Amperage Bridge Hub Mini. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 412,
+    "name": "Meridian Cloudbook Plus",
+    "category": "Laptops",
+    "sku": "MER-10412",
+    "description": "The Meridian Cloudbook Plus. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 744,
+    "name": "Vantablack Dive Watch X",
+    "category": "Wearables",
+    "sku": "VAN-10744",
+    "description": "The Vantablack Dive Watch X. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 114,
+    "name": "Vantablack Mouse Mini",
+    "category": "Peripherals",
+    "sku": "VAN-10114",
+    "description": "The Vantablack Mouse Mini. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 392,
+    "name": "Summit Air Fryer Lite",
+    "category": "Kitchen",
+    "sku": "SUM-10392",
+    "description": "The Summit Air Fryer Lite. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 780,
+    "name": "Amperage Hardshell Case X",
+    "category": "Bags",
+    "sku": "AMP-10780",
+    "description": "The Amperage Hardshell Case X. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 994,
+    "name": "Summit Mouse Neo",
+    "category": "Peripherals",
+    "sku": "SUM-10994",
+    "description": "The Summit Mouse Neo. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 998,
+    "name": "Helix Numpad Neo",
+    "category": "Peripherals",
+    "sku": "HEL-10998",
+    "description": "The Helix Numpad Neo. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 612,
+    "name": "Amperage Indoor Camera Three",
+    "category": "Smart Home",
+    "sku": "AMP-10612",
+    "description": "The Amperage Indoor Camera Three. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 843,
+    "name": "Larkspur Charging Pad XL",
+    "category": "Power",
+    "sku": "LAR-10843",
+    "description": "The Larkspur Charging Pad XL. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 184,
+    "name": "Vantablack Dive Watch Air",
+    "category": "Wearables",
+    "sku": "VAN-10184",
+    "description": "The Vantablack Dive Watch Air. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 129,
+    "name": "Larkspur Thermostat Mini",
+    "category": "Smart Home",
+    "sku": "LAR-10129",
+    "description": "The Larkspur Thermostat Mini. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 955,
+    "name": "Larkspur Recovery Slide Studio",
+    "category": "Footwear",
+    "sku": "LAR-10955",
+    "description": "The Larkspur Recovery Slide Studio. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 280,
+    "name": "Summit Docking Station Max",
+    "category": "Peripherals",
+    "sku": "SUM-10280",
+    "description": "The Summit Docking Station Max. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 475,
+    "name": "Copperpot Recovery Slide Plus",
+    "category": "Footwear",
+    "sku": "COP-10475",
+    "description": "The Copperpot Recovery Slide Plus. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 359,
+    "name": "Vista Graphics Tablet Lite",
+    "category": "Peripherals",
+    "sku": "VIS-10359",
+    "description": "The Vista Graphics Tablet Lite. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 592,
+    "name": "Helix Field Monitor Three",
+    "category": "Monitors",
+    "sku": "HEL-10592",
+    "description": "The Helix Field Monitor Three. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 387,
+    "name": "Vista Skillet Lite",
+    "category": "Kitchen",
+    "sku": "VIS-10387",
+    "description": "The Vista Skillet Lite. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 342,
+    "name": "Meridian Sleep Tracker Lite",
+    "category": "Wearables",
+    "sku": "MER-10342",
+    "description": "The Meridian Sleep Tracker Lite. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 20,
+    "name": "Meridian AR Glasses Pro",
+    "category": "Wearables",
+    "sku": "MER-10020",
+    "description": "The Meridian AR Glasses Pro. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 603,
+    "name": "Nordkraft Charging Pad Three",
+    "category": "Power",
+    "sku": "NOR-10603",
+    "description": "The Nordkraft Charging Pad Three. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 941,
+    "name": "Larkspur Sleeve Studio",
+    "category": "Bags",
+    "sku": "LAR-10941",
+    "description": "The Larkspur Sleeve Studio. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 37,
+    "name": "Vista Stream Controller Pro",
+    "category": "Peripherals",
+    "sku": "VIS-10037",
+    "description": "The Vista Stream Controller Pro. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 145,
+    "name": "Ironwood Kettle Mini",
+    "category": "Kitchen",
+    "sku": "IRO-10145",
+    "description": "The Ironwood Kettle Mini. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 961,
+    "name": "Vista Headphones Neo",
+    "category": "Audio",
+    "sku": "VIS-10961",
+    "description": "The Vista Headphones Neo. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 978,
+    "name": "Basecamp Fitness Band Neo",
+    "category": "Wearables",
+    "sku": "BAS-10978",
+    "description": "The Basecamp Fitness Band Neo. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 471,
+    "name": "Vista Toaster Plus",
+    "category": "Kitchen",
+    "sku": "VIS-10471",
+    "description": "The Vista Toaster Plus. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 151,
+    "name": "Domus Toaster Mini",
+    "category": "Kitchen",
+    "sku": "DOM-10151",
+    "description": "The Domus Toaster Mini. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 770,
+    "name": "Summit Smart Bulb X",
+    "category": "Smart Home",
+    "sku": "SUM-10770",
+    "description": "The Summit Smart Bulb X. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 868,
+    "name": "Summit Water Bottle XL",
+    "category": "Kitchen",
+    "sku": "SUM-10868",
+    "description": "The Summit Water Bottle XL. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 112,
+    "name": "Summit Field Monitor Mini",
+    "category": "Monitors",
+    "sku": "SUM-10112",
+    "description": "The Summit Field Monitor Mini. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 906,
+    "name": "Amperage Ultrawide Studio",
+    "category": "Monitors",
+    "sku": "AMP-10906",
+    "description": "The Amperage Ultrawide Studio. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 879,
+    "name": "Domus Sandal XL",
+    "category": "Footwear",
+    "sku": "DOM-10879",
+    "description": "The Domus Sandal XL. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 951,
+    "name": "Copperpot Toaster Studio",
+    "category": "Kitchen",
+    "sku": "COP-10951",
+    "description": "The Copperpot Toaster Studio. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 332,
+    "name": "Amperage Cloudbook Lite",
+    "category": "Laptops",
+    "sku": "AMP-10332",
+    "description": "The Amperage Cloudbook Lite. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 997,
+    "name": "Larkspur Stream Controller Neo",
+    "category": "Peripherals",
+    "sku": "LAR-10997",
+    "description": "The Larkspur Stream Controller Neo. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 653,
+    "name": "Vista Convertible S",
+    "category": "Laptops",
+    "sku": "VIS-10653",
+    "description": "The Vista Convertible S. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 307,
+    "name": "Copperpot Skillet Max",
+    "category": "Kitchen",
+    "sku": "COP-10307",
+    "description": "The Copperpot Skillet Max. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 728,
+    "name": "Summit Receiver X",
+    "category": "Audio",
+    "sku": "SUM-10728",
+    "description": "The Summit Receiver X. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 813,
+    "name": "Nordkraft Convertible XL",
+    "category": "Laptops",
+    "sku": "NOR-10813",
+    "description": "The Nordkraft Convertible XL. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 290,
+    "name": "Amperage Smart Bulb Max",
+    "category": "Smart Home",
+    "sku": "AMP-10290",
+    "description": "The Amperage Smart Bulb Max. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 898,
+    "name": "Vantablack Fitness Band Studio",
+    "category": "Wearables",
+    "sku": "VAN-10898",
+    "description": "The Vantablack Fitness Band Studio. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 39,
+    "name": "Domus Graphics Tablet Pro",
+    "category": "Peripherals",
+    "sku": "DOM-10039",
+    "description": "The Domus Graphics Tablet Pro. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 83,
+    "name": "Copperpot Speaker Mini",
+    "category": "Audio",
+    "sku": "COP-10083",
+    "description": "The Copperpot Speaker Mini. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 926,
+    "name": "Vantablack USB Hub Studio",
+    "category": "Power",
+    "sku": "VAN-10926",
+    "description": "The Vantablack USB Hub Studio. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 834,
+    "name": "Auralite Mouse XL",
+    "category": "Peripherals",
+    "sku": "AUR-10834",
+    "description": "The Auralite Mouse XL. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 633,
+    "name": "Larkspur Trail Runners Three",
+    "category": "Footwear",
+    "sku": "LAR-10633",
+    "description": "The Larkspur Trail Runners Three. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 760,
+    "name": "Helix Docking Station X",
+    "category": "Peripherals",
+    "sku": "HEL-10760",
+    "description": "The Helix Docking Station X. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 498,
+    "name": "Auralite Fitness Band Two",
+    "category": "Wearables",
+    "sku": "AUR-10498",
+    "description": "The Auralite Fitness Band Two. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 722,
+    "name": "Auralite Earbuds X",
+    "category": "Audio",
+    "sku": "AUR-10722",
+    "description": "The Auralite Earbuds X. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 376,
+    "name": "Basecamp Bridge Hub Lite",
+    "category": "Smart Home",
+    "sku": "BAS-10376",
+    "description": "The Basecamp Bridge Hub Lite. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 614,
+    "name": "Basecamp Motion Sensor Three",
+    "category": "Smart Home",
+    "sku": "BAS-10614",
+    "description": "The Basecamp Motion Sensor Three. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 401,
+    "name": "Vista Headphones Plus",
+    "category": "Audio",
+    "sku": "VIS-10401",
+    "description": "The Vista Headphones Plus. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 131,
+    "name": "Ironwood Video Doorbell Mini",
+    "category": "Smart Home",
+    "sku": "IRO-10131",
+    "description": "The Ironwood Video Doorbell Mini. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 221,
+    "name": "Domus Sleeve Air",
+    "category": "Bags",
+    "sku": "DOM-10221",
+    "description": "The Domus Sleeve Air. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 190,
+    "name": "Auralite Touch Monitor Air",
+    "category": "Monitors",
+    "sku": "AUR-10190",
+    "description": "The Auralite Touch Monitor Air. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 727,
+    "name": "Copperpot Amplifier X",
+    "category": "Audio",
+    "sku": "COP-10727",
+    "description": "The Copperpot Amplifier X. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 295,
+    "name": "Nordkraft Smart Lock Max",
+    "category": "Smart Home",
+    "sku": "NOR-10295",
+    "description": "The Nordkraft Smart Lock Max. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 408,
+    "name": "Vantablack Receiver Plus",
+    "category": "Audio",
+    "sku": "VAN-10408",
+    "description": "The Vantablack Receiver Plus. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 746,
+    "name": "Helix Ultrawide X",
+    "category": "Monitors",
+    "sku": "HEL-10746",
+    "description": "The Helix Ultrawide X. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 534,
+    "name": "Vantablack Motion Sensor Two",
+    "category": "Smart Home",
+    "sku": "VAN-10534",
+    "description": "The Vantablack Motion Sensor Two. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 507,
+    "name": "Larkspur Portable Monitor Two",
+    "category": "Monitors",
+    "sku": "LAR-10507",
+    "description": "The Larkspur Portable Monitor Two. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 540,
+    "name": "Auralite Hardshell Case Two",
+    "category": "Bags",
+    "sku": "AUR-10540",
+    "description": "The Auralite Hardshell Case Two. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 179,
+    "name": "Domus Smart Ring Air",
+    "category": "Wearables",
+    "sku": "DOM-10179",
+    "description": "The Domus Smart Ring Air. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 889,
+    "name": "Cobalt Ultrabook Studio",
+    "category": "Laptops",
+    "sku": "COB-10889",
+    "description": "The Cobalt Ultrabook Studio. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 963,
+    "name": "Domus Speaker Neo",
+    "category": "Audio",
+    "sku": "DOM-10963",
+    "description": "The Domus Speaker Neo. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 650,
+    "name": "Meridian Notebook S",
+    "category": "Laptops",
+    "sku": "MER-10650",
+    "description": "The Meridian Notebook S. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 84,
+    "name": "Summit Soundbar Mini",
+    "category": "Audio",
+    "sku": "SUM-10084",
+    "description": "The Summit Soundbar Mini. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 865,
+    "name": "Domus Kettle XL",
+    "category": "Kitchen",
+    "sku": "DOM-10865",
+    "description": "The Domus Kettle XL. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 983,
+    "name": "Larkspur Field Watch Neo",
+    "category": "Wearables",
+    "sku": "LAR-10983",
+    "description": "The Larkspur Field Watch Neo. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 624,
+    "name": "Auralite Pouch Three",
+    "category": "Bags",
+    "sku": "AUR-10624",
+    "description": "The Auralite Pouch Three. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 282,
+    "name": "Vantablack Power Bank Max",
+    "category": "Power",
+    "sku": "VAN-10282",
+    "description": "The Vantablack Power Bank Max. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 512,
+    "name": "Auralite Field Monitor Two",
+    "category": "Monitors",
+    "sku": "AUR-10512",
+    "description": "The Auralite Field Monitor Two. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 646,
+    "name": "Vantablack Turntable S",
+    "category": "Audio",
+    "sku": "VAN-10646",
+    "description": "The Vantablack Turntable S. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 361,
+    "name": "Domus Charger Lite",
+    "category": "Power",
+    "sku": "DOM-10361",
+    "description": "The Domus Charger Lite. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 503,
+    "name": "Copperpot Field Watch Two",
+    "category": "Wearables",
+    "sku": "COP-10503",
+    "description": "The Copperpot Field Watch Two. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 209,
+    "name": "Copperpot Thermostat Air",
+    "category": "Smart Home",
+    "sku": "COP-10209",
+    "description": "The Copperpot Thermostat Air. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 655,
+    "name": "Domus Slimbook S",
+    "category": "Laptops",
+    "sku": "DOM-10655",
+    "description": "The Domus Slimbook S. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 65,
+    "name": "Vista Kettle Pro",
+    "category": "Kitchen",
+    "sku": "VIS-10065",
+    "description": "The Vista Kettle Pro. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 669,
+    "name": "Domus Pro Display S",
+    "category": "Monitors",
+    "sku": "DOM-10669",
+    "description": "The Domus Pro Display S. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 303,
+    "name": "Vista Tote Max",
+    "category": "Bags",
+    "sku": "VIS-10303",
+    "description": "The Vista Tote Max. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 455,
+    "name": "Cobalt Smart Lock Plus",
+    "category": "Smart Home",
+    "sku": "COB-10455",
+    "description": "The Cobalt Smart Lock Plus. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 479,
+    "name": "Larkspur Sandal Plus",
+    "category": "Footwear",
+    "sku": "LAR-10479",
+    "description": "The Larkspur Sandal Plus. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 593,
+    "name": "Ironwood Keyboard Three",
+    "category": "Peripherals",
+    "sku": "IRO-10593",
+    "description": "The Ironwood Keyboard Three. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 414,
+    "name": "Auralite Creatorbook Plus",
+    "category": "Laptops",
+    "sku": "AUR-10414",
+    "description": "The Auralite Creatorbook Plus. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 580,
+    "name": "Meridian AR Glasses Three",
+    "category": "Wearables",
+    "sku": "MER-10580",
+    "description": "The Meridian AR Glasses Three. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 625,
+    "name": "Vista Kettle Three",
+    "category": "Kitchen",
+    "sku": "VIS-10625",
+    "description": "The Vista Kettle Three. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 823,
+    "name": "Domus Field Watch XL",
+    "category": "Wearables",
+    "sku": "DOM-10823",
+    "description": "The Domus Field Watch XL. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 738,
+    "name": "Amperage Fitness Band X",
+    "category": "Wearables",
+    "sku": "AMP-10738",
+    "description": "The Amperage Fitness Band X. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 771,
+    "name": "Nordkraft Video Doorbell X",
+    "category": "Smart Home",
+    "sku": "NOR-10771",
+    "description": "The Nordkraft Video Doorbell X. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 340,
+    "name": "Helix AR Glasses Lite",
+    "category": "Wearables",
+    "sku": "HEL-10340",
+    "description": "The Helix AR Glasses Lite. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 165,
+    "name": "Domus Microphone Air",
+    "category": "Audio",
+    "sku": "DOM-10165",
+    "description": "The Domus Microphone Air. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 28,
+    "name": "Summit Gaming Monitor Pro",
+    "category": "Monitors",
+    "sku": "SUM-10028",
+    "description": "The Summit Gaming Monitor Pro. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 477,
+    "name": "Nordkraft Sneaker Plus",
+    "category": "Footwear",
+    "sku": "NOR-10477",
+    "description": "The Nordkraft Sneaker Plus. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 458,
+    "name": "Amperage Messenger Bag Plus",
+    "category": "Bags",
+    "sku": "AMP-10458",
+    "description": "The Amperage Messenger Bag Plus. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 223,
+    "name": "Copperpot Tote Air",
+    "category": "Bags",
+    "sku": "COP-10223",
+    "description": "The Copperpot Tote Air. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 769,
+    "name": "Copperpot Thermostat X",
+    "category": "Smart Home",
+    "sku": "COP-10769",
+    "description": "The Copperpot Thermostat X. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 584,
+    "name": "Amperage Dive Watch Three",
+    "category": "Wearables",
+    "sku": "AMP-10584",
+    "description": "The Amperage Dive Watch Three. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 2,
+    "name": "Vantablack Earbuds Pro",
+    "category": "Audio",
+    "sku": "VAN-10002",
+    "description": "The Vantablack Earbuds Pro. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 870,
+    "name": "Vantablack Blender XL",
+    "category": "Kitchen",
+    "sku": "VAN-10870",
+    "description": "The Vantablack Blender XL. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 468,
+    "name": "Meridian Water Bottle Plus",
+    "category": "Kitchen",
+    "sku": "MER-10468",
+    "description": "The Meridian Water Bottle Plus. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 139,
+    "name": "Copperpot Sling Mini",
+    "category": "Bags",
+    "sku": "COP-10139",
+    "description": "The Copperpot Sling Mini. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 793,
+    "name": "Vista Trail Runners X",
+    "category": "Footwear",
+    "sku": "VIS-10793",
+    "description": "The Vista Trail Runners X. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 300,
+    "name": "Meridian Hardshell Case Max",
+    "category": "Bags",
+    "sku": "MER-10300",
+    "description": "The Meridian Hardshell Case Max. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 78,
+    "name": "Auralite Hiking Boot Pro",
+    "category": "Footwear",
+    "sku": "AUR-10078",
+    "description": "The Auralite Hiking Boot Pro. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 171,
+    "name": "Larkspur Workstation Air",
+    "category": "Laptops",
+    "sku": "LAR-10171",
+    "description": "The Larkspur Workstation Air. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 716,
+    "name": "Vantablack Waterproof Boot S",
+    "category": "Footwear",
+    "sku": "VAN-10716",
+    "description": "The Vantablack Waterproof Boot S. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 425,
+    "name": "Ironwood Monitor Plus",
+    "category": "Monitors",
+    "sku": "IRO-10425",
+    "description": "The Ironwood Monitor Plus. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 942,
+    "name": "Helix Duffel Studio",
+    "category": "Bags",
+    "sku": "HEL-10942",
+    "description": "The Helix Duffel Studio. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 120,
+    "name": "Auralite Docking Station Mini",
+    "category": "Peripherals",
+    "sku": "AUR-10120",
+    "description": "The Auralite Docking Station Mini. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 283,
+    "name": "Larkspur Charging Pad Max",
+    "category": "Power",
+    "sku": "LAR-10283",
+    "description": "The Larkspur Charging Pad Max. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 25,
+    "name": "Domus Monitor Pro",
+    "category": "Monitors",
+    "sku": "DOM-10025",
+    "description": "The Domus Monitor Pro. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 346,
+    "name": "Amperage Ultrawide Lite",
+    "category": "Monitors",
+    "sku": "AMP-10346",
+    "description": "The Amperage Ultrawide Lite. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 230,
+    "name": "Meridian Blender Air",
+    "category": "Kitchen",
+    "sku": "MER-10230",
+    "description": "The Meridian Blender Air. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 596,
+    "name": "Auralite Webcam Three",
+    "category": "Peripherals",
+    "sku": "AUR-10596",
+    "description": "The Auralite Webcam Three. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 8,
+    "name": "Auralite Receiver Pro",
+    "category": "Audio",
+    "sku": "AUR-10008",
+    "description": "The Auralite Receiver Pro. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 203,
+    "name": "Cobalt Charging Pad Air",
+    "category": "Power",
+    "sku": "COB-10203",
+    "description": "The Cobalt Charging Pad Air. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 796,
+    "name": "Basecamp Waterproof Boot X",
+    "category": "Footwear",
+    "sku": "BAS-10796",
+    "description": "The Basecamp Waterproof Boot X. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 895,
+    "name": "Copperpot Slimbook Studio",
+    "category": "Laptops",
+    "sku": "COP-10895",
+    "description": "The Copperpot Slimbook Studio. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 315,
+    "name": "Cobalt Recovery Slide Max",
+    "category": "Footwear",
+    "sku": "COB-10315",
+    "description": "The Cobalt Recovery Slide Max. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 374,
+    "name": "Amperage Motion Sensor Lite",
+    "category": "Smart Home",
+    "sku": "AMP-10374",
+    "description": "The Amperage Motion Sensor Lite. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 855,
+    "name": "Nordkraft Smart Lock XL",
+    "category": "Smart Home",
+    "sku": "NOR-10855",
+    "description": "The Nordkraft Smart Lock XL. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 357,
+    "name": "Cobalt Stream Controller Lite",
+    "category": "Peripherals",
+    "sku": "COB-10357",
+    "description": "The Cobalt Stream Controller Lite. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 541,
+    "name": "Vista Sleeve Two",
+    "category": "Bags",
+    "sku": "VIS-10541",
+    "description": "The Vista Sleeve Two. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 935,
+    "name": "Domus Smart Lock Studio",
+    "category": "Smart Home",
+    "sku": "DOM-10935",
+    "description": "The Domus Smart Lock Studio. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 577,
+    "name": "Larkspur Smartwatch Three",
+    "category": "Wearables",
+    "sku": "LAR-10577",
+    "description": "The Larkspur Smartwatch Three. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 692,
+    "name": "Meridian Indoor Camera S",
+    "category": "Smart Home",
+    "sku": "MER-10692",
+    "description": "The Meridian Indoor Camera S. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 442,
+    "name": "Auralite Power Bank Plus",
+    "category": "Power",
+    "sku": "AUR-10442",
+    "description": "The Auralite Power Bank Plus. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 421,
+    "name": "Nordkraft Running Watch Plus",
+    "category": "Wearables",
+    "sku": "NOR-10421",
+    "description": "The Nordkraft Running Watch Plus. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 582,
+    "name": "Auralite Sleep Tracker Three",
+    "category": "Wearables",
+    "sku": "AUR-10582",
+    "description": "The Auralite Sleep Tracker Three. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 150,
+    "name": "Amperage Blender Mini",
+    "category": "Kitchen",
+    "sku": "AMP-10150",
+    "description": "The Amperage Blender Mini. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 707,
+    "name": "Cobalt Skillet S",
+    "category": "Kitchen",
+    "sku": "COB-10707",
+    "description": "The Cobalt Skillet S. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 13,
+    "name": "Copperpot Convertible Pro",
+    "category": "Laptops",
+    "sku": "COP-10013",
+    "description": "The Copperpot Convertible Pro. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 155,
+    "name": "Nordkraft Recovery Slide Mini",
+    "category": "Footwear",
+    "sku": "NOR-10155",
+    "description": "The Nordkraft Recovery Slide Mini. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 664,
+    "name": "Meridian Dive Watch S",
+    "category": "Wearables",
+    "sku": "MER-10664",
+    "description": "The Meridian Dive Watch S. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 944,
+    "name": "Meridian Pouch Studio",
+    "category": "Bags",
+    "sku": "MER-10944",
+    "description": "The Meridian Pouch Studio. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 438,
+    "name": "Helix Numpad Plus",
+    "category": "Peripherals",
+    "sku": "HEL-10438",
+    "description": "The Helix Numpad Plus. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 767,
+    "name": "Domus Cable Kit X",
+    "category": "Power",
+    "sku": "DOM-10767",
+    "description": "The Domus Cable Kit X. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 861,
+    "name": "Cobalt Sleeve XL",
+    "category": "Bags",
+    "sku": "COB-10861",
+    "description": "The Cobalt Sleeve XL. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 45,
+    "name": "Larkspur Solar Charger Pro",
+    "category": "Power",
+    "sku": "LAR-10045",
+    "description": "The Larkspur Solar Charger Pro. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 521,
+    "name": "Larkspur Charger Two",
+    "category": "Power",
+    "sku": "LAR-10521",
+    "description": "The Larkspur Charger Two. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 409,
+    "name": "Larkspur Ultrabook Plus",
+    "category": "Laptops",
+    "sku": "LAR-10409",
+    "description": "The Larkspur Ultrabook Plus. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 147,
+    "name": "Cobalt Skillet Mini",
+    "category": "Kitchen",
+    "sku": "COB-10147",
+    "description": "The Cobalt Skillet Mini. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 569,
+    "name": "Vista Ultrabook Three",
+    "category": "Laptops",
+    "sku": "VIS-10569",
+    "description": "The Vista Ultrabook Three. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 754,
+    "name": "Basecamp Mouse X",
+    "category": "Peripherals",
+    "sku": "BAS-10754",
+    "description": "The Basecamp Mouse X. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 502,
+    "name": "Basecamp Sleep Tracker Two",
+    "category": "Wearables",
+    "sku": "BAS-10502",
+    "description": "The Basecamp Sleep Tracker Two. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 50,
+    "name": "Auralite Smart Bulb Pro",
+    "category": "Smart Home",
+    "sku": "AUR-10050",
+    "description": "The Auralite Smart Bulb Pro. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 356,
+    "name": "Meridian Webcam Lite",
+    "category": "Peripherals",
+    "sku": "MER-10356",
+    "description": "The Meridian Webcam Lite. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 934,
+    "name": "Amperage Motion Sensor Studio",
+    "category": "Smart Home",
+    "sku": "AMP-10934",
+    "description": "The Amperage Motion Sensor Studio. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 789,
+    "name": "Ironwood Sous-Vide Wand X",
+    "category": "Kitchen",
+    "sku": "IRO-10789",
+    "description": "The Ironwood Sous-Vide Wand X. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 90,
+    "name": "Meridian Notebook Mini",
+    "category": "Laptops",
+    "sku": "MER-10090",
+    "description": "The Meridian Notebook Mini. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 420,
+    "name": "Summit AR Glasses Plus",
+    "category": "Wearables",
+    "sku": "SUM-10420",
+    "description": "The Summit AR Glasses Plus. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 529,
+    "name": "Domus Thermostat Two",
+    "category": "Smart Home",
+    "sku": "DOM-10529",
+    "description": "The Domus Thermostat Two. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 299,
+    "name": "Ironwood Sling Max",
+    "category": "Bags",
+    "sku": "IRO-10299",
+    "description": "The Ironwood Sling Max. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 974,
+    "name": "Auralite Creatorbook Neo",
+    "category": "Laptops",
+    "sku": "AUR-10974",
+    "description": "The Auralite Creatorbook Neo. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 742,
+    "name": "Summit Sleep Tracker X",
+    "category": "Wearables",
+    "sku": "SUM-10742",
+    "description": "The Summit Sleep Tracker X. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 930,
+    "name": "Meridian Smart Bulb Studio",
+    "category": "Smart Home",
+    "sku": "MER-10930",
+    "description": "The Meridian Smart Bulb Studio. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 615,
+    "name": "Copperpot Smart Lock Three",
+    "category": "Smart Home",
+    "sku": "COP-10615",
+    "description": "The Copperpot Smart Lock Three. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 3,
+    "name": "Larkspur Speaker Pro",
+    "category": "Audio",
+    "sku": "LAR-10003",
+    "description": "The Larkspur Speaker Pro. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 188,
+    "name": "Meridian Gaming Monitor Air",
+    "category": "Monitors",
+    "sku": "MER-10188",
+    "description": "The Meridian Gaming Monitor Air. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 251,
+    "name": "Copperpot Workstation Max",
+    "category": "Laptops",
+    "sku": "COP-10251",
+    "description": "The Copperpot Workstation Max. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 628,
+    "name": "Basecamp Water Bottle Three",
+    "category": "Kitchen",
+    "sku": "BAS-10628",
+    "description": "The Basecamp Water Bottle Three. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 504,
+    "name": "Summit Dive Watch Two",
+    "category": "Wearables",
+    "sku": "SUM-10504",
+    "description": "The Summit Dive Watch Two. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 406,
+    "name": "Summit Turntable Plus",
+    "category": "Audio",
+    "sku": "SUM-10406",
+    "description": "The Summit Turntable Plus. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 329,
+    "name": "Cobalt Ultrabook Lite",
+    "category": "Laptops",
+    "sku": "COB-10329",
+    "description": "The Cobalt Ultrabook Lite. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 152,
+    "name": "Basecamp Air Fryer Mini",
+    "category": "Kitchen",
+    "sku": "BAS-10152",
+    "description": "The Basecamp Air Fryer Mini. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 197,
+    "name": "Nordkraft Stream Controller Air",
+    "category": "Peripherals",
+    "sku": "NOR-10197",
+    "description": "The Nordkraft Stream Controller Air. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 36,
+    "name": "Auralite Webcam Pro",
+    "category": "Peripherals",
+    "sku": "AUR-10036",
+    "description": "The Auralite Webcam Pro. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 718,
+    "name": "Helix Hiking Boot S",
+    "category": "Footwear",
+    "sku": "HEL-10718",
+    "description": "The Helix Hiking Boot S. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 461,
+    "name": "Copperpot Sleeve Plus",
+    "category": "Bags",
+    "sku": "COP-10461",
+    "description": "The Copperpot Sleeve Plus. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 351,
+    "name": "Nordkraft Curved Monitor Lite",
+    "category": "Monitors",
+    "sku": "NOR-10351",
+    "description": "The Nordkraft Curved Monitor Lite. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 32,
+    "name": "Helix Field Monitor Pro",
+    "category": "Monitors",
+    "sku": "HEL-10032",
+    "description": "The Helix Field Monitor Pro. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 680,
+    "name": "Auralite Docking Station S",
+    "category": "Peripherals",
+    "sku": "AUR-10680",
+    "description": "The Auralite Docking Station S. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 253,
+    "name": "Nordkraft Convertible Max",
+    "category": "Laptops",
+    "sku": "NOR-10253",
+    "description": "The Nordkraft Convertible Max. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 968,
+    "name": "Vantablack Receiver Neo",
+    "category": "Audio",
+    "sku": "VAN-10968",
+    "description": "The Vantablack Receiver Neo. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 379,
+    "name": "Nordkraft Sling Lite",
+    "category": "Bags",
+    "sku": "NOR-10379",
+    "description": "The Nordkraft Sling Lite. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 17,
+    "name": "Larkspur Smartwatch Pro",
+    "category": "Wearables",
+    "sku": "LAR-10017",
+    "description": "The Larkspur Smartwatch Pro. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 759,
+    "name": "Larkspur Graphics Tablet X",
+    "category": "Peripherals",
+    "sku": "LAR-10759",
+    "description": "The Larkspur Graphics Tablet X. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 708,
+    "name": "Auralite Water Bottle S",
+    "category": "Kitchen",
+    "sku": "AUR-10708",
+    "description": "The Auralite Water Bottle S. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 869,
+    "name": "Nordkraft Sous-Vide Wand XL",
+    "category": "Kitchen",
+    "sku": "NOR-10869",
+    "description": "The Nordkraft Sous-Vide Wand XL. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 23,
+    "name": "Vista Field Watch Pro",
+    "category": "Wearables",
+    "sku": "VIS-10023",
+    "description": "The Vista Field Watch Pro. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 194,
+    "name": "Basecamp Mouse Air",
+    "category": "Peripherals",
+    "sku": "BAS-10194",
+    "description": "The Basecamp Mouse Air. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 875,
+    "name": "Cobalt Recovery Slide XL",
+    "category": "Footwear",
+    "sku": "COB-10875",
+    "description": "The Cobalt Recovery Slide XL. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 314,
+    "name": "Meridian Approach Shoe Max",
+    "category": "Footwear",
+    "sku": "MER-10314",
+    "description": "The Meridian Approach Shoe Max. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 967,
+    "name": "Nordkraft Amplifier Neo",
+    "category": "Audio",
+    "sku": "NOR-10967",
+    "description": "The Nordkraft Amplifier Neo. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 671,
+    "name": "Copperpot Curved Monitor S",
+    "category": "Monitors",
+    "sku": "COP-10671",
+    "description": "The Copperpot Curved Monitor S. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 564,
+    "name": "Helix Soundbar Three",
+    "category": "Audio",
+    "sku": "HEL-10564",
+    "description": "The Helix Soundbar Three. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 284,
+    "name": "Helix Surge Station Max",
+    "category": "Power",
+    "sku": "HEL-10284",
+    "description": "The Helix Surge Station Max. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 696,
+    "name": "Amperage Bridge Hub S",
+    "category": "Smart Home",
+    "sku": "AMP-10696",
+    "description": "The Amperage Bridge Hub S. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 275,
+    "name": "Vista Trackpad Max",
+    "category": "Peripherals",
+    "sku": "VIS-10275",
+    "description": "The Vista Trackpad Max. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 317,
+    "name": "Vista Sneaker Max",
+    "category": "Footwear",
+    "sku": "VIS-10317",
+    "description": "The Vista Sneaker Max. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 436,
+    "name": "Vantablack Webcam Plus",
+    "category": "Peripherals",
+    "sku": "VAN-10436",
+    "description": "The Vantablack Webcam Plus. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 103,
+    "name": "Ironwood Field Watch Mini",
+    "category": "Wearables",
+    "sku": "IRO-10103",
+    "description": "The Ironwood Field Watch Mini. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 245,
+    "name": "Cobalt Microphone Max",
+    "category": "Audio",
+    "sku": "COB-10245",
+    "description": "The Cobalt Microphone Max. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 606,
+    "name": "Helix USB Hub Three",
+    "category": "Power",
+    "sku": "HEL-10606",
+    "description": "The Helix USB Hub Three. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 736,
+    "name": "Auralite Gamebook X",
+    "category": "Laptops",
+    "sku": "AUR-10736",
+    "description": "The Auralite Gamebook X. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 758,
+    "name": "Vantablack Numpad X",
+    "category": "Peripherals",
+    "sku": "VAN-10758",
+    "description": "The Vantablack Numpad X. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 699,
+    "name": "Copperpot Sling S",
+    "category": "Bags",
+    "sku": "COP-10699",
+    "description": "The Copperpot Sling S. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 320,
+    "name": "Basecamp Cross Trainer Max",
+    "category": "Footwear",
+    "sku": "BAS-10320",
+    "description": "The Basecamp Cross Trainer Max. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 348,
+    "name": "Basecamp Gaming Monitor Lite",
+    "category": "Monitors",
+    "sku": "BAS-10348",
+    "description": "The Basecamp Gaming Monitor Lite. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 568,
+    "name": "Auralite Receiver Three",
+    "category": "Audio",
+    "sku": "AUR-10568",
+    "description": "The Auralite Receiver Three. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 226,
+    "name": "Vantablack Grinder Air",
+    "category": "Kitchen",
+    "sku": "VAN-10226",
+    "description": "The Vantablack Grinder Air. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 35,
+    "name": "Cobalt Trackpad Pro",
+    "category": "Peripherals",
+    "sku": "COB-10035",
+    "description": "The Cobalt Trackpad Pro. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 292,
+    "name": "Basecamp Indoor Camera Max",
+    "category": "Smart Home",
+    "sku": "BAS-10292",
+    "description": "The Basecamp Indoor Camera Max. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 234,
+    "name": "Amperage Approach Shoe Air",
+    "category": "Footwear",
+    "sku": "AMP-10234",
+    "description": "The Amperage Approach Shoe Air. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 124,
+    "name": "Basecamp Surge Station Mini",
+    "category": "Power",
+    "sku": "BAS-10124",
+    "description": "The Basecamp Surge Station Mini. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 701,
+    "name": "Nordkraft Sleeve S",
+    "category": "Bags",
+    "sku": "NOR-10701",
+    "description": "The Nordkraft Sleeve S. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 630,
+    "name": "Summit Blender Three",
+    "category": "Kitchen",
+    "sku": "SUM-10630",
+    "description": "The Summit Blender Three. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 121,
+    "name": "Vista Charger Mini",
+    "category": "Power",
+    "sku": "VIS-10121",
+    "description": "The Vista Charger Mini. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 537,
+    "name": "Ironwood Backpack Two",
+    "category": "Bags",
+    "sku": "IRO-10537",
+    "description": "The Ironwood Backpack Two. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 321,
+    "name": "Copperpot Headphones Lite",
+    "category": "Audio",
+    "sku": "COP-10321",
+    "description": "The Copperpot Headphones Lite. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 206,
+    "name": "Amperage USB Hub Air",
+    "category": "Power",
+    "sku": "AMP-10206",
+    "description": "The Amperage USB Hub Air. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 613,
+    "name": "Domus Smart Plug Three",
+    "category": "Smart Home",
+    "sku": "DOM-10613",
+    "description": "The Domus Smart Plug Three. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 732,
+    "name": "Helix Cloudbook X",
+    "category": "Laptops",
+    "sku": "HEL-10732",
+    "description": "The Helix Cloudbook X. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 302,
+    "name": "Auralite Duffel Max",
+    "category": "Bags",
+    "sku": "AUR-10302",
+    "description": "The Auralite Duffel Max. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 452,
+    "name": "Helix Indoor Camera Plus",
+    "category": "Smart Home",
+    "sku": "HEL-10452",
+    "description": "The Helix Indoor Camera Plus. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 68,
+    "name": "Basecamp Water Bottle Pro",
+    "category": "Kitchen",
+    "sku": "BAS-10068",
+    "description": "The Basecamp Water Bottle Pro. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 850,
+    "name": "Amperage Smart Bulb XL",
+    "category": "Smart Home",
+    "sku": "AMP-10850",
+    "description": "The Amperage Smart Bulb XL. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 786,
+    "name": "Vantablack Grinder X",
+    "category": "Kitchen",
+    "sku": "VAN-10786",
+    "description": "The Vantablack Grinder X. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 681,
+    "name": "Vista Charger S",
+    "category": "Power",
+    "sku": "VIS-10681",
+    "description": "The Vista Charger S. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 395,
+    "name": "Larkspur Recovery Slide Lite",
+    "category": "Footwear",
+    "sku": "LAR-10395",
+    "description": "The Larkspur Recovery Slide Lite. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 911,
+    "name": "Nordkraft Curved Monitor Studio",
+    "category": "Monitors",
+    "sku": "NOR-10911",
+    "description": "The Nordkraft Curved Monitor Studio. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 246,
+    "name": "Auralite Turntable Max",
+    "category": "Audio",
+    "sku": "AUR-10246",
+    "description": "The Auralite Turntable Max. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 858,
+    "name": "Helix Messenger Bag XL",
+    "category": "Bags",
+    "sku": "HEL-10858",
+    "description": "The Helix Messenger Bag XL. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 833,
+    "name": "Cobalt Keyboard XL",
+    "category": "Peripherals",
+    "sku": "COB-10833",
+    "description": "The Cobalt Keyboard XL. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 258,
+    "name": "Meridian Fitness Band Max",
+    "category": "Wearables",
+    "sku": "MER-10258",
+    "description": "The Meridian Fitness Band Max. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 88,
+    "name": "Helix Receiver Mini",
+    "category": "Audio",
+    "sku": "HEL-10088",
+    "description": "The Helix Receiver Mini. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 54,
+    "name": "Basecamp Motion Sensor Pro",
+    "category": "Smart Home",
+    "sku": "BAS-10054",
+    "description": "The Basecamp Motion Sensor Pro. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 874,
+    "name": "Meridian Approach Shoe XL",
+    "category": "Footwear",
+    "sku": "MER-10874",
+    "description": "The Meridian Approach Shoe XL. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 954,
+    "name": "Vantablack Approach Shoe Studio",
+    "category": "Footwear",
+    "sku": "VAN-10954",
+    "description": "The Vantablack Approach Shoe Studio. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 971,
+    "name": "Ironwood Workstation Neo",
+    "category": "Laptops",
+    "sku": "IRO-10971",
+    "description": "The Ironwood Workstation Neo. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 109,
+    "name": "Domus Pro Display Mini",
+    "category": "Monitors",
+    "sku": "DOM-10109",
+    "description": "The Domus Pro Display Mini. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 845,
+    "name": "Ironwood Solar Charger XL",
+    "category": "Power",
+    "sku": "IRO-10845",
+    "description": "The Ironwood Solar Charger XL. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 384,
+    "name": "Meridian Pouch Lite",
+    "category": "Bags",
+    "sku": "MER-10384",
+    "description": "The Meridian Pouch Lite. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 927,
+    "name": "Larkspur Cable Kit Studio",
+    "category": "Power",
+    "sku": "LAR-10927",
+    "description": "The Larkspur Cable Kit Studio. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 950,
+    "name": "Basecamp Blender Studio",
+    "category": "Kitchen",
+    "sku": "BAS-10950",
+    "description": "The Basecamp Blender Studio. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 765,
+    "name": "Vista Solar Charger X",
+    "category": "Power",
+    "sku": "VIS-10765",
+    "description": "The Vista Solar Charger X. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 899,
+    "name": "Larkspur Smart Ring Studio",
+    "category": "Wearables",
+    "sku": "LAR-10899",
+    "description": "The Larkspur Smart Ring Studio. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 720,
+    "name": "Meridian Cross Trainer S",
+    "category": "Footwear",
+    "sku": "MER-10720",
+    "description": "The Meridian Cross Trainer S. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 886,
+    "name": "Helix Turntable Studio",
+    "category": "Audio",
+    "sku": "HEL-10886",
+    "description": "The Helix Turntable Studio. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 666,
+    "name": "Auralite Ultrawide S",
+    "category": "Monitors",
+    "sku": "AUR-10666",
+    "description": "The Auralite Ultrawide S. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 867,
+    "name": "Copperpot Skillet XL",
+    "category": "Kitchen",
+    "sku": "COP-10867",
+    "description": "The Copperpot Skillet XL. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 457,
+    "name": "Vista Backpack Plus",
+    "category": "Bags",
+    "sku": "VIS-10457",
+    "description": "The Vista Backpack Plus. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 207,
+    "name": "Domus Cable Kit Air",
+    "category": "Power",
+    "sku": "DOM-10207",
+    "description": "The Domus Cable Kit Air. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 71,
+    "name": "Nordkraft Toaster Pro",
+    "category": "Kitchen",
+    "sku": "NOR-10071",
+    "description": "The Nordkraft Toaster Pro. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 33,
+    "name": "Ironwood Keyboard Pro",
+    "category": "Peripherals",
+    "sku": "IRO-10033",
+    "description": "The Ironwood Keyboard Pro. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 424,
+    "name": "Helix Dive Watch Plus",
+    "category": "Wearables",
+    "sku": "HEL-10424",
+    "description": "The Helix Dive Watch Plus. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 173,
+    "name": "Ironwood Convertible Air",
+    "category": "Laptops",
+    "sku": "IRO-10173",
+    "description": "The Ironwood Convertible Air. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 891,
+    "name": "Vista Workstation Studio",
+    "category": "Laptops",
+    "sku": "VIS-10891",
+    "description": "The Vista Workstation Studio. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 352,
+    "name": "Vantablack Field Monitor Lite",
+    "category": "Monitors",
+    "sku": "VAN-10352",
+    "description": "The Vantablack Field Monitor Lite. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 782,
+    "name": "Basecamp Duffel X",
+    "category": "Bags",
+    "sku": "BAS-10782",
+    "description": "The Basecamp Duffel X. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 180,
+    "name": "Basecamp AR Glasses Air",
+    "category": "Wearables",
+    "sku": "BAS-10180",
+    "description": "The Basecamp AR Glasses Air. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 513,
+    "name": "Vista Keyboard Two",
+    "category": "Peripherals",
+    "sku": "VIS-10513",
+    "description": "The Vista Keyboard Two. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 636,
+    "name": "Meridian Waterproof Boot Three",
+    "category": "Footwear",
+    "sku": "MER-10636",
+    "description": "The Meridian Waterproof Boot Three. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 992,
+    "name": "Basecamp Field Monitor Neo",
+    "category": "Monitors",
+    "sku": "BAS-10992",
+    "description": "The Basecamp Field Monitor Neo. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 678,
+    "name": "Meridian Numpad S",
+    "category": "Peripherals",
+    "sku": "MER-10678",
+    "description": "The Meridian Numpad S. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 97,
+    "name": "Copperpot Smartwatch Mini",
+    "category": "Wearables",
+    "sku": "COP-10097",
+    "description": "The Copperpot Smartwatch Mini. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 260,
+    "name": "Auralite AR Glasses Max",
+    "category": "Wearables",
+    "sku": "AUR-10260",
+    "description": "The Auralite AR Glasses Max. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 130,
+    "name": "Helix Smart Bulb Mini",
+    "category": "Smart Home",
+    "sku": "HEL-10130",
+    "description": "The Helix Smart Bulb Mini. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 546,
+    "name": "Summit Grinder Two",
+    "category": "Kitchen",
+    "sku": "SUM-10546",
+    "description": "The Summit Grinder Two. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 149,
+    "name": "Vista Sous-Vide Wand Mini",
+    "category": "Kitchen",
+    "sku": "VIS-10149",
+    "description": "The Vista Sous-Vide Wand Mini. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 739,
+    "name": "Domus Smart Ring X",
+    "category": "Wearables",
+    "sku": "DOM-10739",
+    "description": "The Domus Smart Ring X. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 973,
+    "name": "Cobalt Convertible Neo",
+    "category": "Laptops",
+    "sku": "COB-10973",
+    "description": "The Cobalt Convertible Neo. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 11,
+    "name": "Domus Workstation Pro",
+    "category": "Laptops",
+    "sku": "DOM-10011",
+    "description": "The Domus Workstation Pro. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 43,
+    "name": "Nordkraft Charging Pad Pro",
+    "category": "Power",
+    "sku": "NOR-10043",
+    "description": "The Nordkraft Charging Pad Pro. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 242,
+    "name": "Helix Earbuds Max",
+    "category": "Audio",
+    "sku": "HEL-10242",
+    "description": "The Helix Earbuds Max. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 866,
+    "name": "Basecamp Grinder XL",
+    "category": "Kitchen",
+    "sku": "BAS-10866",
+    "description": "The Basecamp Grinder XL. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 807,
+    "name": "Vista Amplifier XL",
+    "category": "Audio",
+    "sku": "VIS-10807",
+    "description": "The Vista Amplifier XL. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 98,
+    "name": "Summit Fitness Band Mini",
+    "category": "Wearables",
+    "sku": "SUM-10098",
+    "description": "The Summit Fitness Band Mini. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 489,
+    "name": "Copperpot Ultrabook Two",
+    "category": "Laptops",
+    "sku": "COP-10489",
+    "description": "The Copperpot Ultrabook Two. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 456,
+    "name": "Auralite Bridge Hub Plus",
+    "category": "Smart Home",
+    "sku": "AUR-10456",
+    "description": "The Auralite Bridge Hub Plus. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 794,
+    "name": "Amperage Approach Shoe X",
+    "category": "Footwear",
+    "sku": "AMP-10794",
+    "description": "The Amperage Approach Shoe X. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 360,
+    "name": "Amperage Docking Station Lite",
+    "category": "Peripherals",
+    "sku": "AMP-10360",
+    "description": "The Amperage Docking Station Lite. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 705,
+    "name": "Ironwood Kettle S",
+    "category": "Kitchen",
+    "sku": "IRO-10705",
+    "description": "The Ironwood Kettle S. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 169,
+    "name": "Nordkraft Ultrabook Air",
+    "category": "Laptops",
+    "sku": "NOR-10169",
+    "description": "The Nordkraft Ultrabook Air. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 524,
+    "name": "Meridian Surge Station Two",
+    "category": "Power",
+    "sku": "MER-10524",
+    "description": "The Meridian Surge Station Two. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 316,
+    "name": "Auralite Waterproof Boot Max",
+    "category": "Footwear",
+    "sku": "AUR-10316",
+    "description": "The Auralite Waterproof Boot Max. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 148,
+    "name": "Auralite Water Bottle Mini",
+    "category": "Kitchen",
+    "sku": "AUR-10148",
+    "description": "The Auralite Water Bottle Mini. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 42,
+    "name": "Summit Power Bank Pro",
+    "category": "Power",
+    "sku": "SUM-10042",
+    "description": "The Summit Power Bank Pro. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 491,
+    "name": "Nordkraft Workstation Two",
+    "category": "Laptops",
+    "sku": "NOR-10491",
+    "description": "The Nordkraft Workstation Two. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 364,
+    "name": "Summit Surge Station Lite",
+    "category": "Power",
+    "sku": "SUM-10364",
+    "description": "The Summit Surge Station Lite. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 330,
+    "name": "Auralite Notebook Lite",
+    "category": "Laptops",
+    "sku": "AUR-10330",
+    "description": "The Auralite Notebook Lite. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 662,
+    "name": "Helix Sleep Tracker S",
+    "category": "Wearables",
+    "sku": "HEL-10662",
+    "description": "The Helix Sleep Tracker S. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 339,
+    "name": "Larkspur Smart Ring Lite",
+    "category": "Wearables",
+    "sku": "LAR-10339",
+    "description": "The Larkspur Smart Ring Lite. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 338,
+    "name": "Vantablack Fitness Band Lite",
+    "category": "Wearables",
+    "sku": "VAN-10338",
+    "description": "The Vantablack Fitness Band Lite. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 319,
+    "name": "Domus Sandal Max",
+    "category": "Footwear",
+    "sku": "DOM-10319",
+    "description": "The Domus Sandal Max. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 362,
+    "name": "Basecamp Power Bank Lite",
+    "category": "Power",
+    "sku": "BAS-10362",
+    "description": "The Basecamp Power Bank Lite. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 557,
+    "name": "Domus Sneaker Two",
+    "category": "Footwear",
+    "sku": "DOM-10557",
+    "description": "The Domus Sneaker Two. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 730,
+    "name": "Vantablack Notebook X",
+    "category": "Laptops",
+    "sku": "VAN-10730",
+    "description": "The Vantablack Notebook X. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 817,
+    "name": "Ironwood Smartwatch XL",
+    "category": "Wearables",
+    "sku": "IRO-10817",
+    "description": "The Ironwood Smartwatch XL. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 956,
+    "name": "Helix Waterproof Boot Studio",
+    "category": "Footwear",
+    "sku": "HEL-10956",
+    "description": "The Helix Waterproof Boot Studio. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 846,
+    "name": "Meridian USB Hub XL",
+    "category": "Power",
+    "sku": "MER-10846",
+    "description": "The Meridian USB Hub XL. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 745,
+    "name": "Larkspur Monitor X",
+    "category": "Monitors",
+    "sku": "LAR-10745",
+    "description": "The Larkspur Monitor X. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 473,
+    "name": "Domus Trail Runners Plus",
+    "category": "Footwear",
+    "sku": "DOM-10473",
+    "description": "The Domus Trail Runners Plus. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 912,
+    "name": "Vantablack Field Monitor Studio",
+    "category": "Monitors",
+    "sku": "VAN-10912",
+    "description": "The Vantablack Field Monitor Studio. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 618,
+    "name": "Vantablack Messenger Bag Three",
+    "category": "Bags",
+    "sku": "VAN-10618",
+    "description": "The Vantablack Messenger Bag Three. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 816,
+    "name": "Helix Gamebook XL",
+    "category": "Laptops",
+    "sku": "HEL-10816",
+    "description": "The Helix Gamebook XL. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 523,
+    "name": "Ironwood Charging Pad Two",
+    "category": "Power",
+    "sku": "IRO-10523",
+    "description": "The Ironwood Charging Pad Two. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 713,
+    "name": "Copperpot Trail Runners S",
+    "category": "Footwear",
+    "sku": "COP-10713",
+    "description": "The Copperpot Trail Runners S. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 96,
+    "name": "Basecamp Gamebook Mini",
+    "category": "Laptops",
+    "sku": "BAS-10096",
+    "description": "The Basecamp Gamebook Mini. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 486,
+    "name": "Amperage Turntable Two",
+    "category": "Audio",
+    "sku": "AMP-10486",
+    "description": "The Amperage Turntable Two. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 353,
+    "name": "Larkspur Keyboard Lite",
+    "category": "Peripherals",
+    "sku": "LAR-10353",
+    "description": "The Larkspur Keyboard Lite. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 328,
+    "name": "Meridian Receiver Lite",
+    "category": "Audio",
+    "sku": "MER-10328",
+    "description": "The Meridian Receiver Lite. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 73,
+    "name": "Larkspur Trail Runners Pro",
+    "category": "Footwear",
+    "sku": "LAR-10073",
+    "description": "The Larkspur Trail Runners Pro. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 257,
+    "name": "Ironwood Smartwatch Max",
+    "category": "Wearables",
+    "sku": "IRO-10257",
+    "description": "The Ironwood Smartwatch Max. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 81,
+    "name": "Domus Headphones Mini",
+    "category": "Audio",
+    "sku": "DOM-10081",
+    "description": "The Domus Headphones Mini. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 336,
+    "name": "Summit Gamebook Lite",
+    "category": "Laptops",
+    "sku": "SUM-10336",
+    "description": "The Summit Gamebook Lite. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 704,
+    "name": "Helix Pouch S",
+    "category": "Bags",
+    "sku": "HEL-10704",
+    "description": "The Helix Pouch S. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 772,
+    "name": "Vantablack Indoor Camera X",
+    "category": "Smart Home",
+    "sku": "VAN-10772",
+    "description": "The Vantablack Indoor Camera X. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 822,
+    "name": "Amperage Sleep Tracker XL",
+    "category": "Wearables",
+    "sku": "AMP-10822",
+    "description": "The Amperage Sleep Tracker XL. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 638,
+    "name": "Auralite Hiking Boot Three",
+    "category": "Footwear",
+    "sku": "AUR-10638",
+    "description": "The Auralite Hiking Boot Three. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 909,
+    "name": "Copperpot Pro Display Studio",
+    "category": "Monitors",
+    "sku": "COP-10909",
+    "description": "The Copperpot Pro Display Studio. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 14,
+    "name": "Summit Creatorbook Pro",
+    "category": "Laptops",
+    "sku": "SUM-10014",
+    "description": "The Summit Creatorbook Pro. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 4,
+    "name": "Helix Soundbar Pro",
+    "category": "Audio",
+    "sku": "HEL-10004",
+    "description": "The Helix Soundbar Pro. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 639,
+    "name": "Vista Sandal Three",
+    "category": "Footwear",
+    "sku": "VIS-10639",
+    "description": "The Vista Sandal Three. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 252,
+    "name": "Summit Cloudbook Max",
+    "category": "Laptops",
+    "sku": "SUM-10252",
+    "description": "The Summit Cloudbook Max. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 536,
+    "name": "Helix Bridge Hub Two",
+    "category": "Smart Home",
+    "sku": "HEL-10536",
+    "description": "The Helix Bridge Hub Two. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 910,
+    "name": "Summit Touch Monitor Studio",
+    "category": "Monitors",
+    "sku": "SUM-10910",
+    "description": "The Summit Touch Monitor Studio. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 94,
+    "name": "Amperage Creatorbook Mini",
+    "category": "Laptops",
+    "sku": "AMP-10094",
+    "description": "The Amperage Creatorbook Mini. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 478,
+    "name": "Vantablack Hiking Boot Plus",
+    "category": "Footwear",
+    "sku": "VAN-10478",
+    "description": "The Vantablack Hiking Boot Plus. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 648,
+    "name": "Helix Receiver S",
+    "category": "Audio",
+    "sku": "HEL-10648",
+    "description": "The Helix Receiver S. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 447,
+    "name": "Copperpot Cable Kit Plus",
+    "category": "Power",
+    "sku": "COP-10447",
+    "description": "The Copperpot Cable Kit Plus. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 764,
+    "name": "Auralite Surge Station X",
+    "category": "Power",
+    "sku": "AUR-10764",
+    "description": "The Auralite Surge Station X. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 761,
+    "name": "Ironwood Charger X",
+    "category": "Power",
+    "sku": "IRO-10761",
+    "description": "The Ironwood Charger X. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 249,
+    "name": "Domus Ultrabook Max",
+    "category": "Laptops",
+    "sku": "DOM-10249",
+    "description": "The Domus Ultrabook Max. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 9,
+    "name": "Vista Ultrabook Pro",
+    "category": "Laptops",
+    "sku": "VIS-10009",
+    "description": "The Vista Ultrabook Pro. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 857,
+    "name": "Larkspur Backpack XL",
+    "category": "Bags",
+    "sku": "LAR-10857",
+    "description": "The Larkspur Backpack XL. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 288,
+    "name": "Auralite Travel Adapter Max",
+    "category": "Power",
+    "sku": "AUR-10288",
+    "description": "The Auralite Travel Adapter Max. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 897,
+    "name": "Nordkraft Smartwatch Studio",
+    "category": "Wearables",
+    "sku": "NOR-10897",
+    "description": "The Nordkraft Smartwatch Studio. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 10,
+    "name": "Amperage Notebook Pro",
+    "category": "Laptops",
+    "sku": "AMP-10010",
+    "description": "The Amperage Notebook Pro. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 864,
+    "name": "Amperage Pouch XL",
+    "category": "Bags",
+    "sku": "AMP-10864",
+    "description": "The Amperage Pouch XL. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 304,
+    "name": "Amperage Pouch Max",
+    "category": "Bags",
+    "sku": "AMP-10304",
+    "description": "The Amperage Pouch Max. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 146,
+    "name": "Meridian Grinder Mini",
+    "category": "Kitchen",
+    "sku": "MER-10146",
+    "description": "The Meridian Grinder Mini. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 579,
+    "name": "Ironwood Smart Ring Three",
+    "category": "Wearables",
+    "sku": "IRO-10579",
+    "description": "The Ironwood Smart Ring Three. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 199,
+    "name": "Larkspur Graphics Tablet Air",
+    "category": "Peripherals",
+    "sku": "LAR-10199",
+    "description": "The Larkspur Graphics Tablet Air. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 777,
+    "name": "Cobalt Backpack X",
+    "category": "Bags",
+    "sku": "COB-10777",
+    "description": "The Cobalt Backpack X. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 748,
+    "name": "Meridian Gaming Monitor X",
+    "category": "Monitors",
+    "sku": "MER-10748",
+    "description": "The Meridian Gaming Monitor X. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 156,
+    "name": "Vantablack Waterproof Boot Mini",
+    "category": "Footwear",
+    "sku": "VAN-10156",
+    "description": "The Vantablack Waterproof Boot Mini. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 273,
+    "name": "Cobalt Keyboard Max",
+    "category": "Peripherals",
+    "sku": "COB-10273",
+    "description": "The Cobalt Keyboard Max. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 255,
+    "name": "Larkspur Slimbook Max",
+    "category": "Laptops",
+    "sku": "LAR-10255",
+    "description": "The Larkspur Slimbook Max. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 601,
+    "name": "Copperpot Charger Three",
+    "category": "Power",
+    "sku": "COP-10601",
+    "description": "The Copperpot Charger Three. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 262,
+    "name": "Amperage Sleep Tracker Max",
+    "category": "Wearables",
+    "sku": "AMP-10262",
+    "description": "The Amperage Sleep Tracker Max. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 386,
+    "name": "Auralite Grinder Lite",
+    "category": "Kitchen",
+    "sku": "AUR-10386",
+    "description": "The Auralite Grinder Lite. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 439,
+    "name": "Ironwood Graphics Tablet Plus",
+    "category": "Peripherals",
+    "sku": "IRO-10439",
+    "description": "The Ironwood Graphics Tablet Plus. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 621,
+    "name": "Ironwood Sleeve Three",
+    "category": "Bags",
+    "sku": "IRO-10621",
+    "description": "The Ironwood Sleeve Three. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 809,
+    "name": "Domus Ultrabook XL",
+    "category": "Laptops",
+    "sku": "DOM-10809",
+    "description": "The Domus Ultrabook XL. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 144,
+    "name": "Helix Pouch Mini",
+    "category": "Bags",
+    "sku": "HEL-10144",
+    "description": "The Helix Pouch Mini. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 403,
+    "name": "Domus Speaker Plus",
+    "category": "Audio",
+    "sku": "DOM-10403",
+    "description": "The Domus Speaker Plus. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 298,
+    "name": "Helix Messenger Bag Max",
+    "category": "Bags",
+    "sku": "HEL-10298",
+    "description": "The Helix Messenger Bag Max. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 113,
+    "name": "Nordkraft Keyboard Mini",
+    "category": "Peripherals",
+    "sku": "NOR-10113",
+    "description": "The Nordkraft Keyboard Mini. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 543,
+    "name": "Domus Tote Two",
+    "category": "Bags",
+    "sku": "DOM-10543",
+    "description": "The Domus Tote Two. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 999,
+    "name": "Ironwood Graphics Tablet Neo",
+    "category": "Peripherals",
+    "sku": "IRO-10999",
+    "description": "The Ironwood Graphics Tablet Neo. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 49,
+    "name": "Cobalt Thermostat Pro",
+    "category": "Smart Home",
+    "sku": "COB-10049",
+    "description": "The Cobalt Thermostat Pro. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 385,
+    "name": "Cobalt Kettle Lite",
+    "category": "Kitchen",
+    "sku": "COB-10385",
+    "description": "The Cobalt Kettle Lite. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 533,
+    "name": "Nordkraft Smart Plug Two",
+    "category": "Smart Home",
+    "sku": "NOR-10533",
+    "description": "The Nordkraft Smart Plug Two. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 369,
+    "name": "Ironwood Thermostat Lite",
+    "category": "Smart Home",
+    "sku": "IRO-10369",
+    "description": "The Ironwood Thermostat Lite. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 213,
+    "name": "Larkspur Smart Plug Air",
+    "category": "Smart Home",
+    "sku": "LAR-10213",
+    "description": "The Larkspur Smart Plug Air. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 496,
+    "name": "Meridian Gamebook Two",
+    "category": "Laptops",
+    "sku": "MER-10496",
+    "description": "The Meridian Gamebook Two. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 443,
+    "name": "Vista Charging Pad Plus",
+    "category": "Power",
+    "sku": "VIS-10443",
+    "description": "The Vista Charging Pad Plus. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 175,
+    "name": "Cobalt Slimbook Air",
+    "category": "Laptops",
+    "sku": "COB-10175",
+    "description": "The Cobalt Slimbook Air. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 286,
+    "name": "Meridian USB Hub Max",
+    "category": "Power",
+    "sku": "MER-10286",
+    "description": "The Meridian USB Hub Max. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 566,
+    "name": "Meridian Turntable Three",
+    "category": "Audio",
+    "sku": "MER-10566",
+    "description": "The Meridian Turntable Three. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 878,
+    "name": "Amperage Hiking Boot XL",
+    "category": "Footwear",
+    "sku": "AMP-10878",
+    "description": "The Amperage Hiking Boot XL. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 827,
+    "name": "Nordkraft Portable Monitor XL",
+    "category": "Monitors",
+    "sku": "NOR-10827",
+    "description": "The Nordkraft Portable Monitor XL. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 467,
+    "name": "Ironwood Skillet Plus",
+    "category": "Kitchen",
+    "sku": "IRO-10467",
+    "description": "The Ironwood Skillet Plus. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 905,
+    "name": "Vista Monitor Studio",
+    "category": "Monitors",
+    "sku": "VIS-10905",
+    "description": "The Vista Monitor Studio. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 269,
+    "name": "Larkspur Pro Display Max",
+    "category": "Monitors",
+    "sku": "LAR-10269",
+    "description": "The Larkspur Pro Display Max. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 18,
+    "name": "Helix Fitness Band Pro",
+    "category": "Wearables",
+    "sku": "HEL-10018",
+    "description": "The Helix Fitness Band Pro. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 12,
+    "name": "Basecamp Cloudbook Pro",
+    "category": "Laptops",
+    "sku": "BAS-10012",
+    "description": "The Basecamp Cloudbook Pro. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 174,
+    "name": "Meridian Creatorbook Air",
+    "category": "Laptops",
+    "sku": "MER-10174",
+    "description": "The Meridian Creatorbook Air. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 832,
+    "name": "Meridian Field Monitor XL",
+    "category": "Monitors",
+    "sku": "MER-10832",
+    "description": "The Meridian Field Monitor XL. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 644,
+    "name": "Summit Soundbar S",
+    "category": "Audio",
+    "sku": "SUM-10644",
+    "description": "The Summit Soundbar S. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 132,
+    "name": "Meridian Indoor Camera Mini",
+    "category": "Smart Home",
+    "sku": "MER-10132",
+    "description": "The Meridian Indoor Camera Mini. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 887,
+    "name": "Ironwood Amplifier Studio",
+    "category": "Audio",
+    "sku": "IRO-10887",
+    "description": "The Ironwood Amplifier Studio. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 142,
+    "name": "Vantablack Duffel Mini",
+    "category": "Bags",
+    "sku": "VAN-10142",
+    "description": "The Vantablack Duffel Mini. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 688,
+    "name": "Vantablack Travel Adapter S",
+    "category": "Power",
+    "sku": "VAN-10688",
+    "description": "The Vantablack Travel Adapter S. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 933,
+    "name": "Vista Smart Plug Studio",
+    "category": "Smart Home",
+    "sku": "VIS-10933",
+    "description": "The Vista Smart Plug Studio. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 714,
+    "name": "Summit Approach Shoe S",
+    "category": "Footwear",
+    "sku": "SUM-10714",
+    "description": "The Summit Approach Shoe S. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 800,
+    "name": "Vantablack Cross Trainer X",
+    "category": "Footwear",
+    "sku": "VAN-10800",
+    "description": "The Vantablack Cross Trainer X. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 924,
+    "name": "Summit Surge Station Studio",
+    "category": "Power",
+    "sku": "SUM-10924",
+    "description": "The Summit Surge Station Studio. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 642,
+    "name": "Basecamp Earbuds S",
+    "category": "Audio",
+    "sku": "BAS-10642",
+    "description": "The Basecamp Earbuds S. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 815,
+    "name": "Larkspur Slimbook XL",
+    "category": "Laptops",
+    "sku": "LAR-10815",
+    "description": "The Larkspur Slimbook XL. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 135,
+    "name": "Vista Smart Lock Mini",
+    "category": "Smart Home",
+    "sku": "VIS-10135",
+    "description": "The Vista Smart Lock Mini. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 66,
+    "name": "Amperage Grinder Pro",
+    "category": "Kitchen",
+    "sku": "AMP-10066",
+    "description": "The Amperage Grinder Pro. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 516,
+    "name": "Basecamp Webcam Two",
+    "category": "Peripherals",
+    "sku": "BAS-10516",
+    "description": "The Basecamp Webcam Two. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 160,
+    "name": "Meridian Cross Trainer Mini",
+    "category": "Footwear",
+    "sku": "MER-10160",
+    "description": "The Meridian Cross Trainer Mini. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 250,
+    "name": "Basecamp Notebook Max",
+    "category": "Laptops",
+    "sku": "BAS-10250",
+    "description": "The Basecamp Notebook Max. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 773,
+    "name": "Larkspur Smart Plug X",
+    "category": "Smart Home",
+    "sku": "LAR-10773",
+    "description": "The Larkspur Smart Plug X. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 602,
+    "name": "Summit Power Bank Three",
+    "category": "Power",
+    "sku": "SUM-10602",
+    "description": "The Summit Power Bank Three. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 795,
+    "name": "Domus Recovery Slide X",
+    "category": "Footwear",
+    "sku": "DOM-10795",
+    "description": "The Domus Recovery Slide X. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 466,
+    "name": "Helix Grinder Plus",
+    "category": "Kitchen",
+    "sku": "HEL-10466",
+    "description": "The Helix Grinder Plus. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 957,
+    "name": "Ironwood Sneaker Studio",
+    "category": "Footwear",
+    "sku": "IRO-10957",
+    "description": "The Ironwood Sneaker Studio. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 176,
+    "name": "Auralite Gamebook Air",
+    "category": "Laptops",
+    "sku": "AUR-10176",
+    "description": "The Auralite Gamebook Air. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 778,
+    "name": "Auralite Messenger Bag X",
+    "category": "Bags",
+    "sku": "AUR-10778",
+    "description": "The Auralite Messenger Bag X. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 893,
+    "name": "Domus Convertible Studio",
+    "category": "Laptops",
+    "sku": "DOM-10893",
+    "description": "The Domus Convertible Studio. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 590,
+    "name": "Vantablack Touch Monitor Three",
+    "category": "Monitors",
+    "sku": "VAN-10590",
+    "description": "The Vantablack Touch Monitor Three. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 349,
+    "name": "Copperpot Pro Display Lite",
+    "category": "Monitors",
+    "sku": "COP-10349",
+    "description": "The Copperpot Pro Display Lite. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 111,
+    "name": "Copperpot Curved Monitor Mini",
+    "category": "Monitors",
+    "sku": "COP-10111",
+    "description": "The Copperpot Curved Monitor Mini. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 75,
+    "name": "Ironwood Recovery Slide Pro",
+    "category": "Footwear",
+    "sku": "IRO-10075",
+    "description": "The Ironwood Recovery Slide Pro. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 72,
+    "name": "Vantablack Air Fryer Pro",
+    "category": "Kitchen",
+    "sku": "VAN-10072",
+    "description": "The Vantablack Air Fryer Pro. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 776,
+    "name": "Meridian Bridge Hub X",
+    "category": "Smart Home",
+    "sku": "MER-10776",
+    "description": "The Meridian Bridge Hub X. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 490,
+    "name": "Summit Notebook Two",
+    "category": "Laptops",
+    "sku": "SUM-10490",
+    "description": "The Summit Notebook Two. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 19,
+    "name": "Ironwood Smart Ring Pro",
+    "category": "Wearables",
+    "sku": "IRO-10019",
+    "description": "The Ironwood Smart Ring Pro. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 465,
+    "name": "Larkspur Kettle Plus",
+    "category": "Kitchen",
+    "sku": "LAR-10465",
+    "description": "The Larkspur Kettle Plus. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 643,
+    "name": "Copperpot Speaker S",
+    "category": "Audio",
+    "sku": "COP-10643",
+    "description": "The Copperpot Speaker S. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 119,
+    "name": "Cobalt Graphics Tablet Mini",
+    "category": "Peripherals",
+    "sku": "COB-10119",
+    "description": "The Cobalt Graphics Tablet Mini. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 741,
+    "name": "Copperpot Running Watch X",
+    "category": "Wearables",
+    "sku": "COP-10741",
+    "description": "The Copperpot Running Watch X. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 337,
+    "name": "Nordkraft Smartwatch Lite",
+    "category": "Wearables",
+    "sku": "NOR-10337",
+    "description": "The Nordkraft Smartwatch Lite. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 310,
+    "name": "Vantablack Blender Max",
+    "category": "Kitchen",
+    "sku": "VAN-10310",
+    "description": "The Vantablack Blender Max. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 835,
+    "name": "Vista Trackpad XL",
+    "category": "Peripherals",
+    "sku": "VIS-10835",
+    "description": "The Vista Trackpad XL. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 890,
+    "name": "Auralite Notebook Studio",
+    "category": "Laptops",
+    "sku": "AUR-10890",
+    "description": "The Auralite Notebook Studio. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 306,
+    "name": "Basecamp Grinder Max",
+    "category": "Kitchen",
+    "sku": "BAS-10306",
+    "description": "The Basecamp Grinder Max. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 222,
+    "name": "Basecamp Duffel Air",
+    "category": "Bags",
+    "sku": "BAS-10222",
+    "description": "The Basecamp Duffel Air. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 60,
+    "name": "Helix Hardshell Case Pro",
+    "category": "Bags",
+    "sku": "HEL-10060",
+    "description": "The Helix Hardshell Case Pro. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 508,
+    "name": "Helix Gaming Monitor Two",
+    "category": "Monitors",
+    "sku": "HEL-10508",
+    "description": "The Helix Gaming Monitor Two. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 969,
+    "name": "Larkspur Ultrabook Neo",
+    "category": "Laptops",
+    "sku": "LAR-10969",
+    "description": "The Larkspur Ultrabook Neo. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 684,
+    "name": "Basecamp Surge Station S",
+    "category": "Power",
+    "sku": "BAS-10684",
+    "description": "The Basecamp Surge Station S. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 191,
+    "name": "Vista Curved Monitor Air",
+    "category": "Monitors",
+    "sku": "VIS-10191",
+    "description": "The Vista Curved Monitor Air. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 656,
+    "name": "Basecamp Gamebook S",
+    "category": "Laptops",
+    "sku": "BAS-10656",
+    "description": "The Basecamp Gamebook S. A dependable laptops pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 449,
+    "name": "Nordkraft Thermostat Plus",
+    "category": "Smart Home",
+    "sku": "NOR-10449",
+    "description": "The Nordkraft Thermostat Plus. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 880,
+    "name": "Basecamp Cross Trainer XL",
+    "category": "Footwear",
+    "sku": "BAS-10880",
+    "description": "The Basecamp Cross Trainer XL. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 959,
+    "name": "Cobalt Sandal Studio",
+    "category": "Footwear",
+    "sku": "COB-10959",
+    "description": "The Cobalt Sandal Studio. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 204,
+    "name": "Auralite Surge Station Air",
+    "category": "Power",
+    "sku": "AUR-10204",
+    "description": "The Auralite Surge Station Air. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 528,
+    "name": "Amperage Travel Adapter Two",
+    "category": "Power",
+    "sku": "AMP-10528",
+    "description": "The Amperage Travel Adapter Two. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 660,
+    "name": "Vantablack AR Glasses S",
+    "category": "Wearables",
+    "sku": "VAN-10660",
+    "description": "The Vantablack AR Glasses S. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 821,
+    "name": "Vista Running Watch XL",
+    "category": "Wearables",
+    "sku": "VIS-10821",
+    "description": "The Vista Running Watch XL. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 619,
+    "name": "Larkspur Sling Three",
+    "category": "Bags",
+    "sku": "LAR-10619",
+    "description": "The Larkspur Sling Three. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 556,
+    "name": "Amperage Waterproof Boot Two",
+    "category": "Footwear",
+    "sku": "AMP-10556",
+    "description": "The Amperage Waterproof Boot Two. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 394,
+    "name": "Vantablack Approach Shoe Lite",
+    "category": "Footwear",
+    "sku": "VAN-10394",
+    "description": "The Vantablack Approach Shoe Lite. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 157,
+    "name": "Larkspur Sneaker Mini",
+    "category": "Footwear",
+    "sku": "LAR-10157",
+    "description": "The Larkspur Sneaker Mini. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 324,
+    "name": "Vantablack Soundbar Lite",
+    "category": "Audio",
+    "sku": "VAN-10324",
+    "description": "The Vantablack Soundbar Lite. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 993,
+    "name": "Copperpot Keyboard Neo",
+    "category": "Peripherals",
+    "sku": "COP-10993",
+    "description": "The Copperpot Keyboard Neo. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 215,
+    "name": "Ironwood Smart Lock Air",
+    "category": "Smart Home",
+    "sku": "IRO-10215",
+    "description": "The Ironwood Smart Lock Air. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 344,
+    "name": "Auralite Dive Watch Lite",
+    "category": "Wearables",
+    "sku": "AUR-10344",
+    "description": "The Auralite Dive Watch Lite. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 5,
+    "name": "Ironwood Microphone Pro",
+    "category": "Audio",
+    "sku": "IRO-10005",
+    "description": "The Ironwood Microphone Pro. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 140,
+    "name": "Summit Hardshell Case Mini",
+    "category": "Bags",
+    "sku": "SUM-10140",
+    "description": "The Summit Hardshell Case Mini. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 446,
+    "name": "Basecamp USB Hub Plus",
+    "category": "Power",
+    "sku": "BAS-10446",
+    "description": "The Basecamp USB Hub Plus. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 825,
+    "name": "Copperpot Monitor XL",
+    "category": "Monitors",
+    "sku": "COP-10825",
+    "description": "The Copperpot Monitor XL. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 979,
+    "name": "Copperpot Smart Ring Neo",
+    "category": "Wearables",
+    "sku": "COP-10979",
+    "description": "The Copperpot Smart Ring Neo. A dependable wearables pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 599,
+    "name": "Domus Graphics Tablet Three",
+    "category": "Peripherals",
+    "sku": "DOM-10599",
+    "description": "The Domus Graphics Tablet Three. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 208,
+    "name": "Basecamp Travel Adapter Air",
+    "category": "Power",
+    "sku": "BAS-10208",
+    "description": "The Basecamp Travel Adapter Air. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 485,
+    "name": "Vista Microphone Two",
+    "category": "Audio",
+    "sku": "VIS-10485",
+    "description": "The Vista Microphone Two. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 354,
+    "name": "Helix Mouse Lite",
+    "category": "Peripherals",
+    "sku": "HEL-10354",
+    "description": "The Helix Mouse Lite. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 126,
+    "name": "Summit USB Hub Mini",
+    "category": "Power",
+    "sku": "SUM-10126",
+    "description": "The Summit USB Hub Mini. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 755,
+    "name": "Copperpot Trackpad X",
+    "category": "Peripherals",
+    "sku": "COP-10755",
+    "description": "The Copperpot Trackpad X. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 562,
+    "name": "Vantablack Earbuds Three",
+    "category": "Audio",
+    "sku": "VAN-10562",
+    "description": "The Vantablack Earbuds Three. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 585,
+    "name": "Domus Monitor Three",
+    "category": "Monitors",
+    "sku": "DOM-10585",
+    "description": "The Domus Monitor Three. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 721,
+    "name": "Cobalt Headphones X",
+    "category": "Audio",
+    "sku": "COB-10721",
+    "description": "The Cobalt Headphones X. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 938,
+    "name": "Summit Messenger Bag Studio",
+    "category": "Bags",
+    "sku": "SUM-10938",
+    "description": "The Summit Messenger Bag Studio. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 505,
+    "name": "Nordkraft Monitor Two",
+    "category": "Monitors",
+    "sku": "NOR-10505",
+    "description": "The Nordkraft Monitor Two. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 435,
+    "name": "Nordkraft Trackpad Plus",
+    "category": "Peripherals",
+    "sku": "NOR-10435",
+    "description": "The Nordkraft Trackpad Plus. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 370,
+    "name": "Meridian Smart Bulb Lite",
+    "category": "Smart Home",
+    "sku": "MER-10370",
+    "description": "The Meridian Smart Bulb Lite. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 717,
+    "name": "Larkspur Sneaker S",
+    "category": "Footwear",
+    "sku": "LAR-10717",
+    "description": "The Larkspur Sneaker S. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 308,
+    "name": "Summit Water Bottle Max",
+    "category": "Kitchen",
+    "sku": "SUM-10308",
+    "description": "The Summit Water Bottle Max. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 248,
+    "name": "Amperage Receiver Max",
+    "category": "Audio",
+    "sku": "AMP-10248",
+    "description": "The Amperage Receiver Max. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 617,
+    "name": "Nordkraft Backpack Three",
+    "category": "Bags",
+    "sku": "NOR-10617",
+    "description": "The Nordkraft Backpack Three. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 482,
+    "name": "Meridian Earbuds Two",
+    "category": "Audio",
+    "sku": "MER-10482",
+    "description": "The Meridian Earbuds Two. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 192,
+    "name": "Amperage Field Monitor Air",
+    "category": "Monitors",
+    "sku": "AMP-10192",
+    "description": "The Amperage Field Monitor Air. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 472,
+    "name": "Amperage Air Fryer Plus",
+    "category": "Kitchen",
+    "sku": "AMP-10472",
+    "description": "The Amperage Air Fryer Plus. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 327,
+    "name": "Ironwood Amplifier Lite",
+    "category": "Audio",
+    "sku": "IRO-10327",
+    "description": "The Ironwood Amplifier Lite. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 426,
+    "name": "Meridian Ultrawide Plus",
+    "category": "Monitors",
+    "sku": "MER-10426",
+    "description": "The Meridian Ultrawide Plus. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 828,
+    "name": "Vantablack Gaming Monitor XL",
+    "category": "Monitors",
+    "sku": "VAN-10828",
+    "description": "The Vantablack Gaming Monitor XL. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 641,
+    "name": "Domus Headphones S",
+    "category": "Audio",
+    "sku": "DOM-10641",
+    "description": "The Domus Headphones S. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 487,
+    "name": "Domus Amplifier Two",
+    "category": "Audio",
+    "sku": "DOM-10487",
+    "description": "The Domus Amplifier Two. A dependable audio pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 476,
+    "name": "Summit Waterproof Boot Plus",
+    "category": "Footwear",
+    "sku": "SUM-10476",
+    "description": "The Summit Waterproof Boot Plus. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 366,
+    "name": "Vantablack USB Hub Lite",
+    "category": "Power",
+    "sku": "VAN-10366",
+    "description": "The Vantablack USB Hub Lite. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 829,
+    "name": "Larkspur Pro Display XL",
+    "category": "Monitors",
+    "sku": "LAR-10829",
+    "description": "The Larkspur Pro Display XL. A dependable monitors pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 712,
+    "name": "Basecamp Air Fryer S",
+    "category": "Kitchen",
+    "sku": "BAS-10712",
+    "description": "The Basecamp Air Fryer S. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 837,
+    "name": "Domus Stream Controller XL",
+    "category": "Peripherals",
+    "sku": "DOM-10837",
+    "description": "The Domus Stream Controller XL. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 555,
+    "name": "Vista Recovery Slide Two",
+    "category": "Footwear",
+    "sku": "VIS-10555",
+    "description": "The Vista Recovery Slide Two. A dependable footwear pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 470,
+    "name": "Auralite Blender Plus",
+    "category": "Kitchen",
+    "sku": "AUR-10470",
+    "description": "The Auralite Blender Plus. A dependable kitchen pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 598,
+    "name": "Amperage Numpad Three",
+    "category": "Peripherals",
+    "sku": "AMP-10598",
+    "description": "The Amperage Numpad Three. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 59,
+    "name": "Larkspur Sling Pro",
+    "category": "Bags",
+    "sku": "LAR-10059",
+    "description": "The Larkspur Sling Pro. A dependable bags pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 518,
+    "name": "Summit Numpad Two",
+    "category": "Peripherals",
+    "sku": "SUM-10518",
+    "description": "The Summit Numpad Two. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 34,
+    "name": "Meridian Mouse Pro",
+    "category": "Peripherals",
+    "sku": "MER-10034",
+    "description": "The Meridian Mouse Pro. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 526,
+    "name": "Auralite USB Hub Two",
+    "category": "Power",
+    "sku": "AUR-10526",
+    "description": "The Auralite USB Hub Two. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 685,
+    "name": "Copperpot Solar Charger S",
+    "category": "Power",
+    "sku": "COP-10685",
+    "description": "The Copperpot Solar Charger S. A dependable power pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 775,
+    "name": "Ironwood Smart Lock X",
+    "category": "Smart Home",
+    "sku": "IRO-10775",
+    "description": "The Ironwood Smart Lock X. A dependable smart home pick with a clean, no-nonsense design and the everyday features you actually use."
+  },
+  {
+    "storeId": 594,
+    "name": "Meridian Mouse Three",
+    "category": "Peripherals",
+    "sku": "MER-10594",
+    "description": "The Meridian Mouse Three. A dependable peripherals pick with a clean, no-nonsense design and the everyday features you actually use."
+  }
+]
