@@ -12,8 +12,8 @@ import {
 import { useState, useMemo } from 'react';
 
 const COLORS = {
-  price: '#4f8ef7',
-  mrp: '#4a5a7a',
+  price: '#d97706',
+  mrp: '#786c60',
 };
 
 function formatPrice(v) {

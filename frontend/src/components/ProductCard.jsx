@@ -1,7 +1,8 @@
 import { useNavigate } from 'react-router-dom';
-import { Trash2, RefreshCw, TrendingDown, TrendingUp, Package } from 'lucide-react';
+import { Trash2, RefreshCw, Package } from 'lucide-react';
 import { untrackProduct, triggerScrapeOne } from '../api';
 import { useNotifications } from '../context/NotificationContext';
+import ConfirmModal from './ConfirmModal';
 import toast from 'react-hot-toast';
 import { useState } from 'react';
 
@@ -28,6 +29,7 @@ export default function ProductCard({ product, onDeleted, onScraped }) {
   const { addNotification } = useNotifications();
   const [scraping, setScraping] = useState(false);
   const [deleting, setDeleting] = useState(false);
+  const [showConfirmModal, setShowConfirmModal] = useState(false);
 
   const latest = product.latest;
   const price = latest?.price;
@@ -76,9 +78,12 @@ export default function ProductCard({ product, onDeleted, onScraped }) {
     }
   };
 
-  const handleUntrack = async (e) => {
+  const handleUntrackClick = (e) => {
     e.stopPropagation();
-    if (!confirm(`Stop tracking "${product.name}"?`)) return;
+    setShowConfirmModal(true);
+  };
+
+  const handleConfirmUntrack = async () => {
     setDeleting(true);
     try {
       await untrackProduct(product.id);
@@ -88,12 +93,14 @@ export default function ProductCard({ product, onDeleted, onScraped }) {
         type: 'info',
         showToast: true,
       });
+      setShowConfirmModal(false);
       onDeleted?.();
     } catch (err) {
       toast.error('Failed to untrack: ' + (err.response?.data?.error || err.message));
       setDeleting(false);
     }
   };
+
 
 
   return (
@@ -167,7 +174,7 @@ export default function ProductCard({ product, onDeleted, onScraped }) {
         <button
           id={`untrack-btn-${product.id}`}
           className="btn btn-danger btn-sm"
-          onClick={handleUntrack}
+          onClick={handleUntrackClick}
           disabled={deleting || scraping}
           title="Stop tracking"
         >
@@ -175,6 +182,23 @@ export default function ProductCard({ product, onDeleted, onScraped }) {
           {deleting ? '…' : 'Untrack'}
         </button>
       </div>
+
+      <ConfirmModal
+        isOpen={showConfirmModal}
+        title="Stop Tracking Product?"
+        message={
+          <span>
+            Are you sure you want to stop tracking <strong>"{product.name}"</strong>? You will no longer receive price updates or alerts.
+          </span>
+        }
+        confirmText="Stop Tracking"
+        cancelText="Cancel"
+        variant="danger"
+        loading={deleting}
+        onConfirm={handleConfirmUntrack}
+        onClose={() => setShowConfirmModal(false)}
+      />
     </div>
   );
 }
+

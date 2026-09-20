@@ -1,4 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
+import { createPortal } from 'react-dom';
 import { X, Search, Plus, Check } from 'lucide-react';
 import { searchCatalog, trackProduct } from '../api';
 import { useNotifications } from '../context/NotificationContext';
@@ -86,7 +87,7 @@ export default function SearchModal({ onClose, onTracked }) {
     return () => document.removeEventListener('keydown', onKey);
   }, [onClose]);
 
-  return (
+  return createPortal(
     <div className="modal-overlay" onClick={(e) => e.target === e.currentTarget && onClose()}>
       <div className="modal" role="dialog" aria-modal="true" aria-label="Search products">
         <div className="modal-header">
@@ -162,6 +163,8 @@ export default function SearchModal({ onClose, onTracked }) {
           })}
         </div>
       </div>
-    </div>
+    </div>,
+    document.body
   );
 }
+

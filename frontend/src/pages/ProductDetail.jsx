@@ -2,14 +2,14 @@ import { useState, useEffect, useCallback } from 'react';
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import {
   ArrowLeft, RefreshCw, Package, Tag, Calendar,
-  TrendingDown, Star, Truck, Store
+  Store, PackageX, Search, LayoutDashboard
 } from 'lucide-react';
 import PriceChart from '../components/PriceChart';
 import ScrapeLog from '../components/ScrapeLog';
 import AlertForm from '../components/AlertForm';
+import SearchModal from '../components/SearchModal';
 import { getProduct, getPriceHistory, getScrapeLogs, triggerScrapeOne } from '../api';
 import { useNotifications } from '../context/NotificationContext';
-import toast from 'react-hot-toast';
 
 function formatPrice(price) {
   if (price == null) return '—';
@@ -38,6 +38,7 @@ export default function ProductDetail() {
   const [error, setError] = useState(null);
   const [activeTab, setActiveTab] = useState('Price History');
   const [scraping, setScraping] = useState(false);
+  const [showSearchModal, setShowSearchModal] = useState(false);
 
   const fetchAll = useCallback(async () => {
     try {
@@ -104,23 +105,106 @@ export default function ProductDetail() {
 
   if (loading) {
     return (
-      <div className="container" style={{ paddingTop: 60, textAlign: 'center', color: 'var(--text-muted)' }}>
+      <div className="container" style={{ paddingTop: 80, textAlign: 'center', color: 'var(--text-muted)' }}>
         <div className="spinner" style={{ width: 32, height: 32, margin: '0 auto 16px' }} />
-        <p>Loading product…</p>
+        <p>Loading product details…</p>
       </div>
     );
   }
 
   if (error || !product) {
     return (
-      <div className="container" style={{ paddingTop: 60 }}>
-        <div style={{ color: 'var(--danger)', marginBottom: 16 }}>
-          ⚠️ {error || 'Product not found'}
+      <div
+        className="container"
+        style={{
+          minHeight: '70vh',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          padding: '40px 24px',
+        }}
+      >
+        <div
+          className="card card-glass fade-in"
+          style={{
+            maxWidth: 520,
+            width: '100%',
+            textAlign: 'center',
+            padding: '48px 36px',
+            border: '1px solid var(--border-color)',
+            boxShadow: 'var(--shadow-glow)',
+          }}
+        >
+          <div
+            style={{
+              width: 64,
+              height: 64,
+              borderRadius: 20,
+              background: 'rgba(217, 119, 6, 0.12)',
+              color: 'var(--accent)',
+              border: '1px solid rgba(217, 119, 6, 0.25)',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              margin: '0 auto 20px',
+              boxShadow: '0 0 30px rgba(217, 119, 6, 0.15)',
+            }}
+          >
+            <PackageX size={32} />
+          </div>
+
+          <h2
+            style={{
+              fontSize: '1.5rem',
+              fontWeight: 800,
+              letterSpacing: '-0.03em',
+              marginBottom: 10,
+              color: 'var(--text-primary)',
+            }}
+          >
+            Product No Longer Tracked
+          </h2>
+
+          <p
+            style={{
+              fontSize: '0.92rem',
+              color: 'var(--text-secondary)',
+              lineHeight: 1.6,
+              marginBottom: 28,
+            }}
+          >
+            This product is no longer being monitored or has been removed from your dashboard. You can return to your dashboard or search the catalog to track new items.
+          </p>
+
+          <div
+            style={{
+              display: 'flex',
+              gap: 12,
+              justifyContent: 'center',
+              flexWrap: 'wrap',
+            }}
+          >
+            <Link to="/" className="btn btn-primary">
+              <LayoutDashboard size={15} />
+              Return to Dashboard
+            </Link>
+            <button
+              className="btn btn-ghost"
+              onClick={() => setShowSearchModal(true)}
+            >
+              <Search size={15} />
+              Search Catalog
+            </button>
+          </div>
         </div>
-        <Link to="/" className="btn btn-ghost btn-sm">← Back to Dashboard</Link>
+
+        {showSearchModal && (
+          <SearchModal onClose={() => setShowSearchModal(false)} />
+        )}
       </div>
     );
   }
+
 
   const latest = product.latest;
 
