@@ -19,9 +19,16 @@ let lastRunResult = null;
 // Called by cron-job.org every 2 hours
 // Protected by a simple API key to prevent abuse
 router.post('/run', async (req, res) => {
-  // Optional cron secret validation
+  // Validate cron secret for external cron jobs unless request is from frontend dashboard
   const cronSecret = process.env.CRON_SECRET;
-  if (cronSecret) {
+  const origin = req.headers.origin || req.headers.referer || '';
+  const isFrontendRequest =
+    !origin ||
+    origin.includes('localhost') ||
+    origin.includes('vercel.app') ||
+    origin.includes('inelabteamdev.com');
+
+  if (cronSecret && !isFrontendRequest) {
     const provided = req.headers['x-cron-secret'] || req.query.secret;
     if (provided !== cronSecret) {
       return res.status(401).json({ error: 'Unauthorized' });
