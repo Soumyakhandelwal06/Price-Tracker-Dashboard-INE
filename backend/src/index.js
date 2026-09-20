@@ -96,6 +96,19 @@ app.listen(PORT, () => {
   logger.info(`Environment: ${process.env.NODE_ENV || 'development'}`);
   logger.info(`Supabase URL: ${process.env.SUPABASE_URL ? '✓ configured' : '✗ MISSING'}`);
   logger.info(`SendGrid: ${process.env.SENDGRID_API_KEY ? '✓ configured' : '○ not configured (alerts disabled)'}`);
+
+  // Automated 2-hour background scraping schedule
+  const TWO_HOURS_MS = 2 * 60 * 60 * 1000;
+  logger.info('⏰ Automated 2-hour background scraper schedule initialized');
+
+  setInterval(() => {
+    logger.info('⏰ 2-hour interval triggered — starting automatic scrape job for all tracked products...');
+    const { scrapeAll } = require('./scraper/scheduler');
+    scrapeAll().catch((err) => {
+      logger.error(`Automated 2-hour scrape job failed: ${err.message}`);
+    });
+  }, TWO_HOURS_MS);
 });
+
 
 module.exports = app;
