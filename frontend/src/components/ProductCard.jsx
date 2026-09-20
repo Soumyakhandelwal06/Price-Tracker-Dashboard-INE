@@ -1,6 +1,7 @@
 import { useNavigate } from 'react-router-dom';
 import { Trash2, RefreshCw, TrendingDown, TrendingUp, Package } from 'lucide-react';
 import { untrackProduct, triggerScrapeOne } from '../api';
+import { useNotifications } from '../context/NotificationContext';
 import toast from 'react-hot-toast';
 import { useState } from 'react';
 
@@ -24,6 +25,7 @@ function formatDate(dateStr) {
 
 export default function ProductCard({ product, onDeleted, onScraped }) {
   const navigate = useNavigate();
+  const { addNotification } = useNotifications();
   const [scraping, setScraping] = useState(false);
   const [deleting, setDeleting] = useState(false);
 
@@ -39,14 +41,36 @@ export default function ProductCard({ product, onDeleted, onScraped }) {
     setScraping(true);
     try {
       const res = await triggerScrapeOne(product.id);
-      toast.success(`Scraped: ${formatPrice(res.data.data?.price)}`);
+      const scrapedData = res.data?.data;
+      const scrapedPrice = scrapedData?.price;
+
+      addNotification({
+        title: 'Price Scraped Successfully',
+        message: product.name,
+        type: 'success',
+        productId: product.id,
+        productName: product.name,
+        price: scrapedPrice,
+        discountPct: scrapedData?.discountPct || scrapedData?.discount_pct,
+        stockText: scrapedData?.stockText || scrapedData?.stock_text,
+        showToast: true,
+      });
+
       onScraped?.();
     } catch (err) {
       let msg = err.response?.data?.error || err.response?.data?.message || err.message;
       if (err.code === 'ECONNABORTED' || (msg && msg.includes('timeout'))) {
         msg = 'Store is currently busy or rate-limited. Please wait a few seconds and try again.';
       }
-      toast.error('Scrape failed: ' + msg);
+
+      addNotification({
+        title: 'Scrape Failed',
+        message: `${product.name}: ${msg}`,
+        type: 'error',
+        productId: product.id,
+        productName: product.name,
+        showToast: true,
+      });
     } finally {
       setScraping(false);
     }
@@ -58,13 +82,19 @@ export default function ProductCard({ product, onDeleted, onScraped }) {
     setDeleting(true);
     try {
       await untrackProduct(product.id);
-      toast.success(`Stopped tracking "${product.name}"`);
+      addNotification({
+        title: 'Product Untracked',
+        message: `Stopped tracking "${product.name}"`,
+        type: 'info',
+        showToast: true,
+      });
       onDeleted?.();
     } catch (err) {
       toast.error('Failed to untrack: ' + (err.response?.data?.error || err.message));
       setDeleting(false);
     }
   };
+
 
   return (
     <div

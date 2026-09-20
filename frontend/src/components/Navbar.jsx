@@ -1,22 +1,36 @@
 import { Link, useNavigate } from 'react-router-dom';
-import { BarChart2, Plus, RefreshCw } from 'lucide-react';
+import { Plus, RefreshCw } from 'lucide-react';
 import { useState } from 'react';
 import SearchModal from './SearchModal';
+import NotificationPopover from './NotificationPopover';
 import { triggerScrapeAll } from '../api';
+import { useNotifications } from '../context/NotificationContext';
 import toast from 'react-hot-toast';
 
 export default function Navbar() {
   const [showSearch, setShowSearch] = useState(false);
   const [scraping, setScraping] = useState(false);
+  const { addNotification } = useNotifications();
   const navigate = useNavigate();
 
   const handleScrapeAll = async () => {
     setScraping(true);
     try {
       await triggerScrapeAll();
-      toast.success('Scrape job triggered! Data will update shortly.');
+      addNotification({
+        title: 'Scrape Job Started',
+        message: 'Live scrape triggered for all tracked products.',
+        type: 'info',
+        showToast: true,
+      });
     } catch (err) {
-      toast.error('Failed to trigger scrape: ' + (err.response?.data?.error || err.message));
+      const msg = err.response?.data?.error || err.message;
+      addNotification({
+        title: 'Scrape All Failed',
+        message: msg,
+        type: 'error',
+        showToast: true,
+      });
     } finally {
       setScraping(false);
     }
@@ -42,6 +56,8 @@ export default function Navbar() {
               {scraping ? 'Scraping…' : 'Scrape All'}
             </button>
 
+            <NotificationPopover />
+
             <button
               id="add-product-btn"
               className="btn btn-primary btn-sm"
@@ -53,6 +69,7 @@ export default function Navbar() {
           </div>
         </div>
       </nav>
+
 
       {showSearch && (
         <SearchModal

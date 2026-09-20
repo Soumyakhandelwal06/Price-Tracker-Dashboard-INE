@@ -28,6 +28,7 @@ const TABS = ['Price History', 'Scrape Log', 'Alerts'];
 export default function ProductDetail() {
   const { id } = useParams();
   const navigate = useNavigate();
+  const { addNotification } = useNotifications();
 
   const [product, setProduct] = useState(null);
   const [history, setHistory] = useState([]);
@@ -63,14 +64,37 @@ export default function ProductDetail() {
     setScraping(true);
     try {
       const res = await triggerScrapeOne(id);
-      toast.success(`Scraped! Price: ${formatPrice(res.data.data?.price)}`);
+      const scrapedData = res.data?.data;
+      const scrapedPrice = scrapedData?.price;
+
+      addNotification({
+        title: 'Price Scraped Successfully',
+        message: product?.name || 'Product price updated',
+        type: 'success',
+        productId: id,
+        productName: product?.name,
+        price: scrapedPrice,
+        discountPct: scrapedData?.discountPct || scrapedData?.discount_pct,
+        stockText: scrapedData?.stockText || scrapedData?.stock_text,
+        showToast: true,
+      });
+
       await fetchAll();
     } catch (err) {
       let msg = err.response?.data?.error || err.response?.data?.message || err.message;
       if (err.code === 'ECONNABORTED' || (msg && msg.includes('timeout'))) {
         msg = 'Store is currently busy or rate-limited. Please wait a few seconds and try again.';
       }
-      toast.error('Scrape failed: ' + msg);
+
+      addNotification({
+        title: 'Scrape Failed',
+        message: `${product?.name || 'Product'}: ${msg}`,
+        type: 'error',
+        productId: id,
+        productName: product?.name,
+        showToast: true,
+      });
+
       await fetchAll(); // Still refresh to show failure in logs
     } finally {
       setScraping(false);

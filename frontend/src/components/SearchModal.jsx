@@ -1,6 +1,7 @@
 import { useState, useEffect, useCallback } from 'react';
 import { X, Search, Plus, Check } from 'lucide-react';
 import { searchCatalog, trackProduct } from '../api';
+import { useNotifications } from '../context/NotificationContext';
 import toast from 'react-hot-toast';
 
 export default function SearchModal({ onClose, onTracked }) {
@@ -9,6 +10,7 @@ export default function SearchModal({ onClose, onTracked }) {
   const [loading, setLoading] = useState(false);
   const [tracking, setTracking] = useState({}); // productId -> 'loading' | 'done'
   const [error, setError] = useState(null);
+  const { addNotification } = useNotifications();
 
   // Debounced search
   useEffect(() => {
@@ -52,7 +54,16 @@ export default function SearchModal({ onClose, onTracked }) {
         imageUrl: product.image,
       });
       setTracking((t) => ({ ...t, [key]: 'done' }));
-      toast.success(`Now tracking "${product.name}"`);
+
+      addNotification({
+        title: 'New Product Tracked',
+        message: `Now tracking "${product.name}"`,
+        type: 'info',
+        productId: res.data?.product?.id,
+        productName: product.name,
+        showToast: true,
+      });
+
       setTimeout(() => {
         onClose();
         onTracked?.(res.data.product);
