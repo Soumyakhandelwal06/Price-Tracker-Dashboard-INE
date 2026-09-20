@@ -2,14 +2,16 @@ import { useState, useEffect, useCallback } from 'react';
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import {
   ArrowLeft, RefreshCw, Package, Tag, Calendar,
-  Store, PackageX, Search, LayoutDashboard
+  Store, PackageX, Search, LayoutDashboard, Trash2
 } from 'lucide-react';
 import PriceChart from '../components/PriceChart';
 import ScrapeLog from '../components/ScrapeLog';
 import AlertForm from '../components/AlertForm';
 import SearchModal from '../components/SearchModal';
-import { getProduct, getPriceHistory, getScrapeLogs, triggerScrapeOne } from '../api';
+import ConfirmModal from '../components/ConfirmModal';
+import { getProduct, getPriceHistory, getScrapeLogs, triggerScrapeOne, untrackProduct } from '../api';
 import { useNotifications } from '../context/NotificationContext';
+import toast from 'react-hot-toast';
 
 function formatPrice(price) {
   if (price == null) return '—';
@@ -39,6 +41,8 @@ export default function ProductDetail() {
   const [activeTab, setActiveTab] = useState('Price History');
   const [scraping, setScraping] = useState(false);
   const [showSearchModal, setShowSearchModal] = useState(false);
+  const [showConfirmModal, setShowConfirmModal] = useState(false);
+  const [untracking, setUntracking] = useState(false);
 
   const fetchAll = useCallback(async () => {
     try {
@@ -100,6 +104,25 @@ export default function ProductDetail() {
       await fetchAll(); // Still refresh to show failure in logs
     } finally {
       setScraping(false);
+    }
+  };
+
+  const handleConfirmUntrack = async () => {
+    setUntracking(true);
+    try {
+      await untrackProduct(id);
+      addNotification({
+        title: 'Product Untracked',
+        message: `Stopped tracking "${product?.name || 'Product'}"`,
+        type: 'info',
+        showToast: true,
+      });
+      setShowConfirmModal(false);
+      setProduct(null);
+      setError('Product untracked');
+    } catch (err) {
+      toast.error('Failed to untrack: ' + (err.response?.data?.error || err.message));
+      setUntracking(false);
     }
   };
 
@@ -292,13 +315,13 @@ export default function ProductDetail() {
           )}
         </div>
 
-        {/* Scrape now button */}
-        <div style={{ marginTop: 20, paddingTop: 20, borderTop: '1px solid var(--border-color)', display: 'flex', gap: 12, flexWrap: 'wrap' }}>
+        {/* Action row */}
+        <div style={{ marginTop: 20, paddingTop: 20, borderTop: '1px solid var(--border-color)', display: 'flex', gap: 12, flexWrap: 'wrap', alignItems: 'center' }}>
           <button
             id="scrape-now-btn"
             className="btn btn-primary"
             onClick={handleScrapeNow}
-            disabled={scraping}
+            disabled={scraping || untracking}
           >
             <RefreshCw size={14} className={scraping ? 'spin-icon' : ''} />
             {scraping ? 'Scraping…' : 'Scrape Now'}
@@ -312,6 +335,16 @@ export default function ProductDetail() {
             <Store size={14} />
             View on Store ↗
           </a>
+          <button
+            id="untrack-detail-btn"
+            className="btn btn-danger"
+            onClick={() => setShowConfirmModal(true)}
+            disabled={untracking || scraping}
+            style={{ marginLeft: 'auto' }}
+          >
+            <Trash2 size={14} />
+            {untracking ? 'Untracking…' : 'Untrack Product'}
+          </button>
         </div>
       </div>
 
@@ -406,6 +439,22 @@ export default function ProductDetail() {
           </>
         )}
       </div>
+
+      <ConfirmModal
+        isOpen={showConfirmModal}
+        title="Stop Tracking Product?"
+        message={
+          <span>
+            Are you sure you want to stop tracking <strong>"{product.name}"</strong>? You will no longer receive price updates or alerts.
+          </span>
+        }
+        confirmText="Stop Tracking"
+        cancelText="Cancel"
+        variant="danger"
+        loading={untracking}
+        onConfirm={handleConfirmUntrack}
+        onClose={() => setShowConfirmModal(false)}
+      />
     </main>
   );
 }
